@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https:/2021/03/26/article-title/</loc>
+    
+    <lastmod>2021-03-26T15:50:09.050Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https:/tags/index.html</loc>
     
     <lastmod>2021-03-26T13:58:21.930Z</lastmod>
@@ -23,13 +30,6 @@
   </url>
   
   <url>
-    <loc>https:/archives/index.html</loc>
-    
-    <lastmod>2021-03-26T13:58:21.929Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https:/about/index.html</loc>
     
     <lastmod>2021-03-26T13:58:21.929Z</lastmod>
@@ -37,14 +37,21 @@
   </url>
   
   <url>
-    <loc>https:/contact/index.html</loc>
+    <loc>https:/categories/index.html</loc>
     
     <lastmod>2021-03-26T13:58:21.929Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https:/categories/index.html</loc>
+    <loc>https:/archives/index.html</loc>
+    
+    <lastmod>2021-03-26T13:58:21.929Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https:/contact/index.html</loc>
     
     <lastmod>2021-03-26T13:58:21.929Z</lastmod>
     
