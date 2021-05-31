@@ -4,11 +4,17 @@
 
 <head><meta name="generator" content="Hexo 3.9.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="try, 好奇心与生活">
+    <meta name="keywords" content="Node.js项目部署到Linux, 好奇心与生活">
     <meta name="baidu-site-verification" content="fmlEuI34ir">
     <meta name="google-site-verification" content="yCy2azpds5XSuGZvis6OuA-XIGF5GuGpYRAaGfD6o48">
     <meta name="360-site-verification" content="b7c11a830ef90fd1464ad6206bb7b6e7">
-    <meta name="description" content="try | 好奇心与生活">
+    <meta name="description" content="前言：使用此文前提是已经完全做好了一个本地的Node.js项目，现在只差部署到服务器。
+
+
+一、服务器准备：服务器需要有Node环境，配置方法见Linux上安装node.js
+二、安装依赖：进入项目根目录，输入：
+
+$ npm instal">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -16,7 +22,7 @@
     <meta name="format-detection" content="telephone=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <title>try | 好奇心与生活</title>
+    <title>Node.js项目部署到Linux | 好奇心与生活</title>
     <link rel="icon" type="image/png" href="/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/font-awesome.min.css">
@@ -329,13 +335,13 @@
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/0.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/3.jpg')">
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
                     <div class="description center-align post-title">
-                        try
+                        Node.js项目部署到Linux
                     </div>
                 </div>
             </div>
@@ -445,11 +451,28 @@
                 <div class="col s7">
                     
                     <div class="article-tag">
-                        <span class="chip bg-color">无标签</span>
+                        
+                        <a href="/tags/后端/" target="_blank">
+                            <span class="chip bg-color">后端</span>
+                        </a>
+                        
+                        <a href="/tags/Node-js/" target="_blank">
+                            <span class="chip bg-color">Node.js</span>
+                        </a>
+                        
                     </div>
                     
                 </div>
                 <div class="col s5 right-align">
+                    
+                    <div class="post-cate">
+                        <i class="fa fa-bookmark fa-fw icon-category"></i>
+                        
+                        <a href="/categories/技术/" class="post-category" target="_blank">
+                            技术
+                        </a>
+                        
+                    </div>
                     
                 </div>
             </div>
@@ -457,7 +480,7 @@
             <div class="post-info">
                 <div class="post-date info-break-policy">
                     <i class="fa fa-calendar-minus-o fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2021-03-27
+                    2021-04-25
                 </div>
 
                 <div class="post-author info-break-policy">
@@ -471,7 +494,7 @@
                 
                 <div class="info-break-policy">
                     <i class="fa fa-file-word-o fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    0
+                    455
                 </div>
                 
 
@@ -494,7 +517,49 @@
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                
+                <p>前言：使用此文前提是已经完全做好了一个本地的Node.js项目，现在只差部署到服务器。</p>
+<a id="more"></a>
+
+<h3 id="一、服务器准备："><a href="#一、服务器准备：" class="headerlink" title="一、服务器准备："></a>一、服务器准备：</h3><p>服务器需要有Node环境，配置方法见<a href="https://www.qianshibuwang.cn/2020/04/25/Linux上安装node-js/" target="_blank" rel="noopener">Linux上安装node.js</a></p>
+<h3 id="二、安装依赖："><a href="#二、安装依赖：" class="headerlink" title="二、安装依赖："></a>二、安装依赖：</h3><p>进入项目根目录，输入：</p>
+<blockquote>
+<p>$ npm install</p>
+</blockquote>
+<p>这个时候已经可以像在本地运行一样，运行服务器上的项目了，输入：</p>
+<blockquote>
+<p>$ node app.js</p>
+</blockquote>
+<p>在浏览器打开：<ip>:<port>就可以看到了，和本地一模一样～</port></ip></p>
+<p>（最好测试一下，理由详见后文。）</p>
+<p>但是一旦退出进程就看不到项目了，因此需要将目标文件永久启动。</p>
+<h3 id="三、使用pm2"><a href="#三、使用pm2" class="headerlink" title="三、使用pm2:"></a>三、使用pm2:</h3><p>为了让项目随时随地可以浏览，这里选用了强大的pm2。</p>
+<p>首先安装：</p>
+<blockquote>
+<p>$ npm install pm2 -g</p>
+</blockquote>
+<p>安装好后别忘了创建软连接，不然使用pm2会找不到命令(不要照抄，路径不同。)</p>
+<blockquote>
+<p>$ ln -s /root/node-v14.0.0-linux-x64/bin/pm2 /usr/bin/pm2</p>
+</blockquote>
+<p>现在可以使用pm2启动文件了(记得进入项目根目录)～</p>
+<blockquote>
+<p>$ pm2 app.js</p>
+</blockquote>
+<p><img src="/img/pm2.png" alt="pm2"></p>
+<p>这个页面真是可爱</p>
+<h3 id="四、pm2的端口不监听问题"><a href="#四、pm2的端口不监听问题" class="headerlink" title="四、pm2的端口不监听问题"></a>四、pm2的端口不监听问题</h3><p>现在打开浏览器，并不会有预期的项目。但是使用node自己的启动方式，比如npm start和node app.js启动时，却发现程序可以访问。</p>
+<p>查看原因：</p>
+<p>node端口是否监听</p>
+<blockquote>
+<p>$ netstat -ntlp                   //比如node运行端口为3000，通过netstat -ntlp发现这个端口并未被监听</p>
+</blockquote>
+<p>原来是通过pm2启动项目端口未被监听，而在这个项目中，start能启动监听是因为运行了</p>
+<p><img src="/img/startload.png" alt="startload"><br>然后直接简单粗暴的把启动文件也运行了：</p>
+<blockquote>
+<p>$ pm2 start bin/www</p>
+</blockquote>
+<p>现在再来打开浏览器，随时随地都可以欣赏自己的项目了，大功告成～～～</p>
+
             </div>
             <hr />
 
@@ -528,9 +593,9 @@
             <br/>
             <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text"
                   property="dct:title" rel="dct:type">
-                    《try》
+                    《Node.js项目部署到Linux》
                 </span> 由
-            <a xmlns:cc="http://creativecommons.org/ns#" href="/2021/03/27/try/" property="cc:attributionName"
+            <a xmlns:cc="http://creativecommons.org/ns#" href="/2021/04/25/node-js-xiang-mu-bu-shu-dao-linux/" property="cc:attributionName"
                rel="cc:attributionURL">
                 BaiLi
             </a> 采用
@@ -574,29 +639,55 @@
             <div class="article-badge left-badge text-color">
                 <i class="fa fa-chevron-left"></i>&nbsp;上一篇</div>
             <div class="card">
-                <a href="/2021/03/27/article-title-2/">
+                <a href="/2021/05/17/shou-xie-yi-ge-promise-ba/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/1.jpg" class="responsive-img" alt="article title">
+                        <img src="/medias/featureimages/3.jpg" class="responsive-img" alt="手写一个Promise吧">
                         
-                        <span class="card-title">article title</span>
+                        <span class="card-title">手写一个Promise吧</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            
+                            前言：由于写过依旧会忘，故再次整理。
+
+
+const PENDING = 'pending'
+const RESOLVED = 'resolved'
+const REJECTED = 'rejected'
+
+function MyPromi
                         
                     </div>
                     <div class="publish-info">
                         <span class="publish-date">
-                            <i class="fa fa-clock-o fa-fw icon-date"></i>2021-03-27
+                            <i class="fa fa-clock-o fa-fw icon-date"></i>2021-05-17
                         </span>
                         <span class="publish-author">
                             
+                            <i class="fa fa-bookmark fa-fw icon-category"></i>
+                            
+                            <a href="/categories/技术/" class="post-category" target="_blank">
+                                    技术
+                                </a>
+                            
+                            
                         </span>
                     </div>
+                </div>
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/前端/" target="_blank">
+                        <span class="chip bg-color">前端</span>
+                    </a>
+                    
+                    <a href="/tags/JavaScript/" target="_blank">
+                        <span class="chip bg-color">JavaScript</span>
+                    </a>
+                    
                 </div>
                 
             </div>
@@ -608,29 +699,52 @@
                 下一篇&nbsp;<i class="fa fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/2021/03/27/article-title-1/">
+                <a href="/2021/04/25/linux-shang-an-zhuang-node-js/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/1.jpg" class="responsive-img" alt="article title">
+                        <img src="/medias/featureimages/0.jpg" class="responsive-img" alt="Linux上安装node.js">
                         
-                        <span class="card-title">article title</span>
+                        <span class="card-title">Linux上安装node.js</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            
+                            前言：此篇博文用的直接部署方法，简单好懂。
+
+
+
+1.安装wget
+$ yum install -y wget
+
+如果已经安装了可以跳过该步
+2.下载nodejs最新的bin包可以在下载页面https://nodejs.org/en/dow
                         
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="fa fa-clock-o fa-fw icon-date"></i>2021-03-27
+                                <i class="fa fa-clock-o fa-fw icon-date"></i>2021-04-25
                             </span>
                         <span class="publish-author">
                             
+                            <i class="fa fa-bookmark fa-fw icon-category"></i>
+                            
+                            <a href="/categories/技术/" class="post-category" target="_blank">
+                                    技术
+                                </a>
+                            
+                            
                         </span>
                     </div>
+                </div>
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/Linux/" target="_blank">
+                        <span class="chip bg-color">Linux</span>
+                    </a>
+                    
                 </div>
                 
             </div>
@@ -765,7 +879,7 @@
 
             
             &nbsp;<i class="fa fa-area-chart"></i>&nbsp;站点总字数:&nbsp;
-            <span class="white-color">3.6k</span>
+            <span class="white-color">16.2k</span>
             
 
             <br>

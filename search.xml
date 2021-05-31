@@ -4,39 +4,281 @@
   
     
     <entry>
-      <title>article title</title>
-      <link href="/2021/03/27/article-title-2/"/>
-      <url>/2021/03/27/article-title-2/</url>
+      <title>从零开始的前端学习资源</title>
+      <link href="/2021/05/31/qian-duan-xue-xi-zi-yuan-zheng-li/"/>
+      <url>/2021/05/31/qian-duan-xue-xi-zi-yuan-zheng-li/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>以下整理的资料，都是之前我学前端时用过且觉得不错的资源，带有强烈的个人偏好，但用着确实都不错。此文权作记录与归纳，如果有不愿公开的作者，请联系我删除～</p><h2 id="一、UI与灵感"><a href="#一、UI与灵感" class="headerlink" title="一、UI与灵感"></a>一、UI与灵感</h2><p>Element : <a href="https://element.eleme.cn/#/zh-CN" target="_blank" rel="noopener">https://element.eleme.cn/#/zh-CN</a> （做项目时可用）</p><p>Layui : <a href="https://www.layui.com" target="_blank" rel="noopener">https://www.layui.com</a> （同上）</p><p>风格清新统一的创意404页面：<a href="https://www.kapwing.com/404-illustrations" target="_blank" rel="noopener">https://www.kapwing.com/404-illustrations</a> （不多，但是很可爱）</p><p>免费图库：<a href="https://pixabay.com/zh/" target="_blank" rel="noopener">https://pixabay.com/zh/</a> （高清大图，可以用来做博客）</p><p>​                   <a href="https://www.stockio.com（有一些创意图标）" target="_blank" rel="noopener">https://www.stockio.com（有一些创意图标）</a></p><p>​                   <a href="https://www.freepik.com" target="_blank" rel="noopener">https://www.freepik.com</a> （同上）</p><p>阿里巴巴图标库（现在有插画了）： <a href="https://www.iconfont.cn" target="_blank" rel="noopener">https://www.iconfont.cn</a> （里面很多图标萌化了，还有系列作品，支持换色支持svg等多种格式下载）</p><p>在线颜色表：<a href="https://www.materialui.co/colors" target="_blank" rel="noopener">https://www.materialui.co/colors</a> （直观取色，打开时小心眼睛）</p><h2 id="二、HTML与CSS"><a href="#二、HTML与CSS" class="headerlink" title="二、HTML与CSS"></a>二、HTML与CSS</h2><p>慕课网免费课程 “HTML+CSS入门课” ：<a href="https://www.imooc.com/learn/9（简单易懂的入门课，边学边做上手极快。）" target="_blank" rel="noopener">https://www.imooc.com/learn/9（简单易懂的入门课，边学边做上手极快。）</a></p><p>HTML Crash Course [2021] : <a href="https://www.youtube.com/watch?v=qz0aGYrrlhU" target="_blank" rel="noopener">https://www.youtube.com/watch?v=qz0aGYrrlhU</a> (油管上的，虽然才1小时，但讲了很多知识点，有条件的建议抽时间看看，同时练习。)</p><p>书籍：《精通CSS3》（这本书其实很好懂，不要被标题吓到），《HTML5权威指南》+《CSS5权威指南》（放手上参考，不必急于通读）</p><p>总结：初期这部分知识不需要面面俱到，大概有个了结，等做项目时用到一些不常用的，再搜就是。</p><h2 id="三、JavaScript"><a href="#三、JavaScript" class="headerlink" title="三、JavaScript"></a>三、JavaScript</h2><p>JS基础：<a href="https://www.imooc.com/learn/36" target="_blank" rel="noopener">https://www.imooc.com/learn/36</a> + <a href="https://www.imooc.com/learn/10" target="_blank" rel="noopener">https://www.imooc.com/learn/10</a> （两个课程内容都很浅显，快速掌握就好）</p><p>廖雪峰JavaScript教程：<a href="https://www.liaoxuefeng.com/wiki/1022910821149312" target="_blank" rel="noopener">https://www.liaoxuefeng.com/wiki/1022910821149312</a> （不必全都学，只学自己不太理解的部分）</p><p>Learn JavaScript in 1 Hour：<a href="https://www.youtube.com/watch?v=W6NZfCO5SIk（也是油管的，非常直观的课程）" target="_blank" rel="noopener">https://www.youtube.com/watch?v=W6NZfCO5SIk（也是油管的，非常直观的课程）</a></p><p>书籍：《DOM编程艺术》，《JavaScript语言精粹》，《JS高级程序设计》，《你不知道的JS》，《ES6标准入门》（其中个人最喜欢的就是《你不知道的JS》，读来有种醍醐灌顶的感觉）</p><p>总结：JS时前端学习的重中之重，一定要打好基础，后续框架学习会轻松很多。</p><h2 id="四、Vue"><a href="#四、Vue" class="headerlink" title="四、Vue"></a>四、Vue</h2><p>官方文档：<a href="https://cn.vuejs.org/v2/guide/" target="_blank" rel="noopener">https://cn.vuejs.org/v2/guide/</a> （一定要看，官方文档很友好的，其实很多网课也就是看文档讲）</p><p>视频课：<a href="https://www.bilibili.com/video/BV15741177Eh" target="_blank" rel="noopener">https://www.bilibili.com/video/BV15741177Eh</a> （B站课很多，这只是自己最喜欢的老师）</p><p><a href="https://juejin.im/book/5a36661851882538e2259c0f" target="_blank" rel="noopener">剖析 Vue.js 内部运行机制</a> ：<a href="https://juejin.im/book/5a36661851882538e2259c0f" target="_blank" rel="noopener">https://juejin.im/book/5a36661851882538e2259c0f</a> （可帮助理解用，但不是免费的）</p><h2 id="五、小程序"><a href="#五、小程序" class="headerlink" title="五、小程序"></a>五、小程序</h2><p>官方文档：<a href="https://developers.weixin.qq.com/miniprogram/dev/framework/" target="_blank" rel="noopener">https://developers.weixin.qq.com/miniprogram/dev/framework/</a> （可以直接看这个上手）</p><p>视频课：<a href="https://www.bilibili.com/video/BV1Kt411V7rg" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1Kt411V7rg</a> （不必全听，有点慢了，可以听听不好懂的部分）</p><p>ColorUI组件库（这个直接小程序里搜索，做小程序可用）</p><h2 id="六、浏览器"><a href="#六、浏览器" class="headerlink" title="六、浏览器"></a>六、浏览器</h2><p><a href="https://time.geekbang.org/column/intro/216" target="_blank" rel="noopener">浏览器工作原理与实践</a> ： <a href="https://time.geekbang.org/column/intro/216" target="_blank" rel="noopener">https://time.geekbang.org/column/intro/216</a> （非必须，小贵，当时搞活动入的）</p><p>浏览器证书原理： <a href="https://cjting.me/2016/09/05/build-a-https-site-from-scratch/" target="_blank" rel="noopener">https://cjting.me/2016/09/05/build-a-https-site-from-scratch/</a> （很短，可以简单看看）</p><h2 id="七、代码规范"><a href="#七、代码规范" class="headerlink" title="七、代码规范"></a>七、代码规范</h2><p>CSS命名方法（仅供参考）：<a href="https://segmentfault.com/a/1190000000391762" target="_blank" rel="noopener">https://segmentfault.com/a/1190000000391762</a></p><h2 id="八、博客搭建"><a href="#八、博客搭建" class="headerlink" title="八、博客搭建"></a>八、博客搭建</h2><p>1.Hexo+Github：<a href="https://godweiyang.com/2018/04/13/hexo-blog/" target="_blank" rel="noopener">https://godweiyang.com/2018/04/13/hexo-blog/</a> （不要买域名，0花费就能搭建博客，缺点是打开会慢点甚至有时候挂了？）</p><p>2.Vps+Hexo ：<a href="https://zhuanlan.zhihu.com/p/136234800" target="_blank" rel="noopener">https://zhuanlan.zhihu.com/p/136234800</a> （有兴趣可以试试，学生机的话很便宜的，顺便练习下Linux操作。国内的服务器打开很快，缺点是麻烦，还要买域名、备案等等，事情很多就不多吐槽了，还有就是个人真的不建议长期使用这个，费用是一回事，域名信息太透明了也让人没有安全感）</p><h2 id="九、社区和博客"><a href="#九、社区和博客" class="headerlink" title="九、社区和博客"></a>九、社区和博客</h2><p>问题社区StackOverFlow：<a href="https://stackoverflow.com" target="_blank" rel="noopener">https://stackoverflow.com</a> （有找工作板块）</p><p>掘金：<a href="https://juejin.cn" target="_blank" rel="noopener">https://juejin.cn</a> （技术分享，有免费和付费作品）</p><p>V2EX：<a href="https://www.v2ex.com" target="_blank" rel="noopener">https://www.v2ex.com</a> （讨论技术）</p><p>阮一峰的网络日志：<a href="http://www.ruanyifeng.com/blog/" target="_blank" rel="noopener">http://www.ruanyifeng.com/blog/</a> （推一下他的科技周刊，真的很有趣）</p><h2 id="十、可能用到的工具"><a href="#十、可能用到的工具" class="headerlink" title="十、可能用到的工具"></a>十、可能用到的工具</h2><p>VSCode：<a href="https://code.visualstudio.com/Download" target="_blank" rel="noopener">https://code.visualstudio.com/Download</a> （很好用的编辑器，推荐安装Live Server插件，方便调试页面，插件具体参考油管视频 Top 10 Best VS Code Extensions <a href="https://www.youtube.com/watch?v=c5GAS_PMXDs）" target="_blank" rel="noopener">https://www.youtube.com/watch?v=c5GAS_PMXDs）</a></p><p>ForkLift：<a href="https://binarynights.com" target="_blank" rel="noopener">https://binarynights.com</a> （Mac上非常好用的文件传输工具，好看又免费，主要是免费hh，下载了选择免费试用就行，富婆可以直接买）</p><p>Termius：<a href="https://www.termius.com" target="_blank" rel="noopener">https://www.termius.com</a> （Windows和Mac版都有，简洁又免费，可以管理多个远程服务器）</p><p>Charles：<a href="https://www.charlesproxy.com" target="_blank" rel="noopener">https://www.charlesproxy.com</a> （抓包工具，可一直免费试用）</p><p>The Unarchiver：<a href="https://www.theunarchiver.com" target="_blank" rel="noopener">https://www.theunarchiver.com</a> （Mac好用的解压软件不多，这个就挺不错的）</p><p>Markdown 编辑阅读器: <a href="https://www.zybuluo.com/mdeditor" target="_blank" rel="noopener">https://www.zybuluo.com/mdeditor</a> (网页上的，可以边学边练习)</p><p>Markdown 编辑器Typora：<a href="https://typora.io" target="_blank" rel="noopener">https://typora.io</a> （Windows和Mac都有，可以拿来写博客）</p><p>正则可视化工具Regexper：<a href="https://regexper.com" target="_blank" rel="noopener">https://regexper.com</a> （前期不懂没关系，用的时候再搜也不迟。）</p><p>正则检测工具Regexpal：<a href="https://www.regexpal.com" target="_blank" rel="noopener">https://www.regexpal.com</a> （有常用的正则表达式范例）</p><p>360字体版权查看网站：<a href="http://fonts.safe.360.cn" target="_blank" rel="noopener">http://fonts.safe.360.cn</a> （可以看看自己拥有的字体是什么授权）</p><h2 id="十一、一些有用网站"><a href="#十一、一些有用网站" class="headerlink" title="十一、一些有用网站"></a>十一、一些有用网站</h2><p>代码仓库Github：<a href="https://github.com" target="_blank" rel="noopener">https://github.com</a> </p><p>参考教程MDN：<a href="https://developer.mozilla.org/en-US/docs/Learn" target="_blank" rel="noopener">https://developer.mozilla.org/en-US/docs/Learn</a> （英文版较全，有些页面没翻译。我也有参与翻译hh）</p><p>力扣：<a href="https://leetcode-cn.com/problemset/all/" target="_blank" rel="noopener">https://leetcode-cn.com/problemset/all/</a> （刷题用，这是题目页，不是首页）</p><p>Vim资料：<a href="https://vim-china.org" target="_blank" rel="noopener">https://vim-china.org</a> </p><p>欢迎大家补充～</p>]]></content>
       
       
+      <categories>
+          
+          <category> 资源 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 前端 </tag>
+            
+        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>try</title>
-      <link href="/2021/03/27/try/"/>
-      <url>/2021/03/27/try/</url>
+      <title>firewalld更改端口记录</title>
+      <link href="/2021/05/22/firewalld-geng-gai-duan-kou-ji-lu/"/>
+      <url>/2021/05/22/firewalld-geng-gai-duan-kou-ji-lu/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>前言：git又不能用了，原来是端口号不行了！于是直接在原服务文件中修改了端口号……此文记录常见的防火墙端口操作。</p><a id="more"></a><p>先说前面更改服务文件的操作，重启了防火墙也不能使新端口可用，每次查看监听的端口都是原先的端口在被监听，试着关闭这个进程后，新端口立即可用了。其中的原理还有待学习，推测是一个服务在运行时，更改服务文件并不会重启这个进程，只有关闭进程后使得服务重新运行，服务文件中新的端口号才可用。具体操作如下：</p><h4 id="1-端口状态查询"><a href="#1-端口状态查询" class="headerlink" title="1.端口状态查询"></a>1.端口状态查询</h4><blockquote><p>netstat -lanp   //查看服务器上的服务及端口（有点多，没在用的也显示）</p><p>firewall-cmd –list-all //查看已开放端口及服务</p><p>netstat -aptn  //查看所有开放的端口号（只看目前开放的端口号）</p></blockquote><h4 id="2-关闭正在监听的端口"><a href="#2-关闭正在监听的端口" class="headerlink" title="2.关闭正在监听的端口"></a>2.关闭正在监听的端口</h4><blockquote><p>kill -9 5918  //9518为想关闭的进程号，即查询时显示的PID</p></blockquote><h5 id="下面是端口操作笔记："><a href="#下面是端口操作笔记：" class="headerlink" title="下面是端口操作笔记："></a>下面是端口操作笔记：</h5><h4 id="netstat命令各个参数说明如下："><a href="#netstat命令各个参数说明如下：" class="headerlink" title="netstat命令各个参数说明如下："></a>netstat命令各个参数说明如下：</h4><blockquote><p>-t : 指明显示TCP端口</p><p>-u : 指明显示UDP端口</p><p>-l : 仅显示监听套接字(所谓套接字就是使应用程序能够读写与收发通讯协议(protocol)与资料的程序)</p><p>-p : 显示进程标识符和程序名称，每一个套接字/端口都属于一个程序</p><p>-n : 不进行DNS轮询，显示IP(可以加速操作)</p></blockquote><p>例如：</p><blockquote><p>netstat -ntlp //查看当前所有tcp端口</p><p>netstat -ntulp |grep 80 //查看所有80端口使用情况</p><p>netstat -an | grep 3306 //查看所有3306端口使用情况</p><p>netstat -lanp //查看一台服务器上面哪些服务及端口</p></blockquote>]]></content>
       
       
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Linux </tag>
+            
+        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>article title</title>
-      <link href="/2021/03/27/article-title-1/"/>
-      <url>/2021/03/27/article-title-1/</url>
+      <title>手写一个Promise吧</title>
+      <link href="/2021/05/17/shou-xie-yi-ge-promise-ba/"/>
+      <url>/2021/05/17/shou-xie-yi-ge-promise-ba/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>前言：由于写过依旧会忘，故再次整理。</p><a id="more"></a><pre class="line-numbers language-javascript"><code class="language-javascript"><span class="token keyword">const</span> PENDING <span class="token operator">=</span> <span class="token string">'pending'</span><span class="token keyword">const</span> RESOLVED <span class="token operator">=</span> <span class="token string">'resolved'</span><span class="token keyword">const</span> REJECTED <span class="token operator">=</span> <span class="token string">'rejected'</span><span class="token keyword">function</span> <span class="token function">MyPromise</span><span class="token punctuation">(</span>fn<span class="token punctuation">)</span> <span class="token punctuation">{</span>    <span class="token keyword">const</span> that <span class="token operator">=</span> <span class="token keyword">this</span>    that<span class="token punctuation">.</span>state <span class="token operator">=</span> PENDING    <span class="token comment" spellcheck="true">// value 变量用于保存 resolve 或者 reject 中传入的值</span>    that<span class="token punctuation">.</span>value <span class="token operator">=</span> <span class="token keyword">null</span>    <span class="token comment" spellcheck="true">// 用于保存 then 中的回调，因为当执行完 Promise 时状态可能还是等待中，这时候应该把 then 中的回调保存起来用于状态改变时使用</span>    that<span class="token punctuation">.</span>resolvedCallbacks <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token punctuation">]</span>    that<span class="token punctuation">.</span>rejectedCallbacks <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token punctuation">]</span>    <span class="token keyword">function</span> <span class="token function">resolve</span><span class="token punctuation">(</span>value<span class="token punctuation">)</span> <span class="token punctuation">{</span>         <span class="token comment" spellcheck="true">// 首先两个函数都得判断当前状态是否为等待中</span>        <span class="token keyword">if</span><span class="token punctuation">(</span>that<span class="token punctuation">.</span>state <span class="token operator">===</span> PENDING<span class="token punctuation">)</span> <span class="token punctuation">{</span>            that<span class="token punctuation">.</span>state <span class="token operator">=</span> RESOLVED            that<span class="token punctuation">.</span>value <span class="token operator">=</span> value            <span class="token comment" spellcheck="true">// 遍历回调数组并执行</span>            that<span class="token punctuation">.</span>resolvedCallbacks<span class="token punctuation">.</span><span class="token function">map</span><span class="token punctuation">(</span>cb<span class="token operator">=</span><span class="token operator">></span><span class="token function">cb</span><span class="token punctuation">(</span>that<span class="token punctuation">.</span>value<span class="token punctuation">)</span><span class="token punctuation">)</span>        <span class="token punctuation">}</span>    <span class="token punctuation">}</span>    <span class="token keyword">function</span> <span class="token function">reject</span><span class="token punctuation">(</span>value<span class="token punctuation">)</span> <span class="token punctuation">{</span>        <span class="token keyword">if</span><span class="token punctuation">(</span>that<span class="token punctuation">.</span>state <span class="token operator">===</span> PENDING<span class="token punctuation">)</span> <span class="token punctuation">{</span>            that<span class="token punctuation">.</span>state <span class="token operator">=</span> REJECTED            that<span class="token punctuation">.</span>value <span class="token operator">=</span> value            that<span class="token punctuation">.</span>rejectedCallbacks<span class="token punctuation">.</span><span class="token function">map</span><span class="token punctuation">(</span>cb<span class="token operator">=</span><span class="token operator">></span><span class="token function">cb</span><span class="token punctuation">(</span>that<span class="token punctuation">.</span>value<span class="token punctuation">)</span><span class="token punctuation">)</span>        <span class="token punctuation">}</span>    <span class="token punctuation">}</span>    <span class="token comment" spellcheck="true">// 完成以上两个函数以后，我们就该实现如何执行 Promise 中传入的函数了</span>    <span class="token keyword">try</span> <span class="token punctuation">{</span>        <span class="token function">fn</span><span class="token punctuation">(</span>resolve<span class="token punctuation">,</span>reject<span class="token punctuation">)</span>    <span class="token punctuation">}</span><span class="token keyword">catch</span><span class="token punctuation">(</span>e<span class="token punctuation">)</span><span class="token punctuation">{</span>        <span class="token function">reject</span><span class="token punctuation">(</span>e<span class="token punctuation">)</span>    <span class="token punctuation">}</span><span class="token punctuation">}</span><span class="token comment" spellcheck="true">// 最后我们来实现较为复杂的 then 函数</span>MyPromise<span class="token punctuation">.</span>prototype<span class="token punctuation">.</span>then <span class="token operator">=</span> <span class="token keyword">function</span><span class="token punctuation">(</span>onFulfilled<span class="token punctuation">,</span>onRejected<span class="token punctuation">)</span><span class="token punctuation">{</span>  <span class="token keyword">const</span> that <span class="token operator">=</span> <span class="token keyword">this</span>  <span class="token comment" spellcheck="true">// 判断两个参数是否为函数类型，因为这两个参数是可选参数</span>  onFulfilled <span class="token operator">=</span> <span class="token keyword">typeof</span> onFulfilled <span class="token operator">===</span> <span class="token string">'function'</span> <span class="token operator">?</span> onFulfilled <span class="token punctuation">:</span> v<span class="token operator">=</span><span class="token operator">></span>v  onRejected <span class="token operator">=</span> <span class="token keyword">typeof</span> onRejected <span class="token operator">===</span> <span class="token string">'function'</span> <span class="token operator">?</span> onRejected <span class="token punctuation">:</span> e<span class="token operator">=</span><span class="token operator">></span>console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'err'</span><span class="token punctuation">)</span>  <span class="token comment" spellcheck="true">// 当状态不是等待态时，就去执行相对应的函数。如果状态是等待态的话，就往回调函数中 push 函数</span>  <span class="token keyword">if</span><span class="token punctuation">(</span><span class="token keyword">this</span><span class="token punctuation">.</span>state <span class="token operator">===</span> PENDING<span class="token punctuation">)</span> <span class="token punctuation">{</span>      <span class="token keyword">this</span><span class="token punctuation">.</span>resolvedCallbacks<span class="token punctuation">.</span><span class="token function">push</span><span class="token punctuation">(</span>onFulfilled<span class="token punctuation">)</span>      <span class="token keyword">this</span><span class="token punctuation">.</span>rejectedCallbacks<span class="token punctuation">.</span><span class="token function">push</span><span class="token punctuation">(</span>onRejected<span class="token punctuation">)</span>  <span class="token punctuation">}</span>  <span class="token keyword">if</span><span class="token punctuation">(</span><span class="token keyword">this</span><span class="token punctuation">.</span>state <span class="token operator">===</span> RESOLVED<span class="token punctuation">)</span> <span class="token punctuation">{</span>      <span class="token function">onFulfilled</span><span class="token punctuation">(</span>that<span class="token punctuation">.</span>value<span class="token punctuation">)</span>  <span class="token punctuation">}</span>  <span class="token keyword">if</span><span class="token punctuation">(</span><span class="token keyword">this</span><span class="token punctuation">.</span>state <span class="token operator">===</span> REJECTED<span class="token punctuation">)</span> <span class="token punctuation">{</span>      <span class="token function">onRejected</span><span class="token punctuation">(</span>that<span class="token punctuation">.</span>value<span class="token punctuation">)</span>  <span class="token punctuation">}</span><span class="token punctuation">}</span><span class="token keyword">let</span> p <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">MyPromise</span><span class="token punctuation">(</span><span class="token punctuation">(</span>resolve<span class="token punctuation">,</span> reject<span class="token punctuation">)</span> <span class="token operator">=</span><span class="token operator">></span> <span class="token punctuation">{</span>    <span class="token function">resolve</span><span class="token punctuation">(</span><span class="token number">111</span><span class="token punctuation">)</span><span class="token punctuation">}</span><span class="token punctuation">)</span>p<span class="token punctuation">.</span><span class="token function">then</span><span class="token punctuation">(</span><span class="token punctuation">(</span>value<span class="token punctuation">)</span> <span class="token operator">=</span><span class="token operator">></span> <span class="token punctuation">{</span>  console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>value<span class="token punctuation">)</span><span class="token punctuation">}</span><span class="token punctuation">)</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
       
       
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 前端 </tag>
+            
+            <tag> JavaScript </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Node.js项目部署到Linux</title>
+      <link href="/2021/04/25/node-js-xiang-mu-bu-shu-dao-linux/"/>
+      <url>/2021/04/25/node-js-xiang-mu-bu-shu-dao-linux/</url>
+      
+        <content type="html"><![CDATA[<p>前言：使用此文前提是已经完全做好了一个本地的Node.js项目，现在只差部署到服务器。</p><a id="more"></a><h3 id="一、服务器准备："><a href="#一、服务器准备：" class="headerlink" title="一、服务器准备："></a>一、服务器准备：</h3><p>服务器需要有Node环境，配置方法见<a href="https://www.qianshibuwang.cn/2020/04/25/Linux上安装node-js/" target="_blank" rel="noopener">Linux上安装node.js</a></p><h3 id="二、安装依赖："><a href="#二、安装依赖：" class="headerlink" title="二、安装依赖："></a>二、安装依赖：</h3><p>进入项目根目录，输入：</p><blockquote><p>$ npm install</p></blockquote><p>这个时候已经可以像在本地运行一样，运行服务器上的项目了，输入：</p><blockquote><p>$ node app.js</p></blockquote><p>在浏览器打开：<ip>:<port>就可以看到了，和本地一模一样～</port></ip></p><p>（最好测试一下，理由详见后文。）</p><p>但是一旦退出进程就看不到项目了，因此需要将目标文件永久启动。</p><h3 id="三、使用pm2"><a href="#三、使用pm2" class="headerlink" title="三、使用pm2:"></a>三、使用pm2:</h3><p>为了让项目随时随地可以浏览，这里选用了强大的pm2。</p><p>首先安装：</p><blockquote><p>$ npm install pm2 -g</p></blockquote><p>安装好后别忘了创建软连接，不然使用pm2会找不到命令(不要照抄，路径不同。)</p><blockquote><p>$ ln -s /root/node-v14.0.0-linux-x64/bin/pm2 /usr/bin/pm2</p></blockquote><p>现在可以使用pm2启动文件了(记得进入项目根目录)～</p><blockquote><p>$ pm2 app.js</p></blockquote><p><img src="/img/pm2.png" alt="pm2"></p><p>这个页面真是可爱</p><h3 id="四、pm2的端口不监听问题"><a href="#四、pm2的端口不监听问题" class="headerlink" title="四、pm2的端口不监听问题"></a>四、pm2的端口不监听问题</h3><p>现在打开浏览器，并不会有预期的项目。但是使用node自己的启动方式，比如npm start和node app.js启动时，却发现程序可以访问。</p><p>查看原因：</p><p>node端口是否监听</p><blockquote><p>$ netstat -ntlp                   //比如node运行端口为3000，通过netstat -ntlp发现这个端口并未被监听</p></blockquote><p>原来是通过pm2启动项目端口未被监听，而在这个项目中，start能启动监听是因为运行了</p><p><img src="/img/startload.png" alt="startload"><br>然后直接简单粗暴的把启动文件也运行了：</p><blockquote><p>$ pm2 start bin/www</p></blockquote><p>现在再来打开浏览器，随时随地都可以欣赏自己的项目了，大功告成～～～</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 后端 </tag>
+            
+            <tag> Node.js </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Linux上安装node.js</title>
+      <link href="/2021/04/25/linux-shang-an-zhuang-node-js/"/>
+      <url>/2021/04/25/linux-shang-an-zhuang-node-js/</url>
+      
+        <content type="html"><![CDATA[<p>前言：此篇博文用的直接部署方法，简单好懂。</p><a id="more"></a><h4 id="1-安装wget"><a href="#1-安装wget" class="headerlink" title="1.安装wget"></a>1.安装wget</h4><blockquote><p>$ yum install -y wget</p></blockquote><p>如果已经安装了可以跳过该步</p><h4 id="2-下载nodejs最新的bin包"><a href="#2-下载nodejs最新的bin包" class="headerlink" title="2.下载nodejs最新的bin包"></a>2.下载nodejs最新的bin包</h4><p>可以在下载页面<a href="https://nodejs.org/en/download/中找到下载地址。然后执行指令：" target="_blank" rel="noopener">https://nodejs.org/en/download/中找到下载地址。然后执行指令：</a></p><blockquote><p>$ wget <a href="https://npm.taobao.org/mirrors/node/v14.0.0/node-v14.0.0-linux-x64.tar.xz" target="_blank" rel="noopener">https://npm.taobao.org/mirrors/node/v14.0.0/node-v14.0.0-linux-x64.tar.xz</a></p></blockquote><p>这里注意选择合适的版本，比如linux的64位版本就无法在32位系统上运行。</p><h4 id="3-解压安装包"><a href="#3-解压安装包" class="headerlink" title="3.解压安装包"></a>3.解压安装包</h4><p>依次执行</p><blockquote><p>$ xz -d node-v14.0.0-linux-x64.tar.xz<br>$ tar -xf node-v14.0.0-linux-x64.tar</p></blockquote><h4 id="4-部署bin文件"><a href="#4-部署bin文件" class="headerlink" title="4. 部署bin文件"></a>4. 部署bin文件</h4><p>这一步相当于建立了一个链接。</p><p>先确认node.js的路径，我是在根目录下载解压的。确认后依次执行</p><blockquote><p>$ ln -s ~/node-v14.0.0-linux-x64/bin/node /usr/bin/node<br>$ ln -s ~/node-v14.0.0-linux-x64/bin/npm /usr/bin/npm</p><p>$ ln -s ~/node-v14.0.0-linux-x64/bin/node /usr/local/bin/node<br>$ ln -s ~/node-v14.0.0-linux-x64/bin/npm /usr/local/bin/npm</p></blockquote><p>在这里，如果之前有安装过node而没有卸载干净，可能会报错如：</p><blockquote><p>-bash: /usr/local/bin/node: No such file or directory</p></blockquote><p>进入 <code>/usr/local/bin/</code>把<code>node</code>删除了就好，其余报错同理 。</p><h4 id="5-测试"><a href="#5-测试" class="headerlink" title="5.测试"></a>5.测试</h4><blockquote><p>$ node -v<br>$ npm</p></blockquote><p>如果正确输出版本号，则部署完成。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>理解JavaScript中的提升</title>
+      <link href="/2021/04/20/li-jie-javascript-zhong-de-ti-sheng/"/>
+      <url>/2021/04/20/li-jie-javascript-zhong-de-ti-sheng/</url>
+      
+        <content type="html"><![CDATA[<p>前言：在回调地狱的解决方案中，函数提升使得代码更加清晰，那么为什么可以这样做呢？</p><a id="more"></a><p>先看四段代码</p><pre class="line-numbers language-javascript"><code class="language-javascript">      <span class="token comment" spellcheck="true">//代码段1--------------------------</span>      <span class="token keyword">var</span> myvar <span class="token operator">=</span> <span class="token string">'变量值1'</span><span class="token punctuation">;</span>       console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>myvar<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment" spellcheck="true">// 变量值1</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><p>1.先定义后打印。</p><pre class="line-numbers language-javascript"><code class="language-javascript">      <span class="token comment" spellcheck="true">//代码段2--------------------------</span>      <span class="token keyword">var</span> myvar <span class="token operator">=</span> <span class="token string">'变量值2'</span><span class="token punctuation">;</span>        <span class="token punctuation">(</span><span class="token keyword">function</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>         console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>myvar<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment" spellcheck="true">//变量值2</span>     <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>2.依旧常用，由于Javascript编译器首先在匿名函数内部作用域（Scope）查看变量myvar是否声明，发现没有，就继续向上一级的作用域（Scope）查看是否声明 myvar，发现存在，即打印出该作用域的myvar值。</p><pre class="line-numbers language-javascript"><code class="language-javascript">     <span class="token comment" spellcheck="true">//代码段3----------------------------</span>     <span class="token keyword">var</span> myvar <span class="token operator">=</span> <span class="token string">'变量值3'</span><span class="token punctuation">;</span>      <span class="token punctuation">(</span><span class="token keyword">function</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>       console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>myvar<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment" spellcheck="true">// undefined </span>      <span class="token keyword">var</span> myvar <span class="token operator">=</span> <span class="token string">'内部变量值3'</span><span class="token punctuation">;</span>      <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    <span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>3.这段代码中，底部多了一行代码，就打印出了“undefined”，先要理解，“undefined”的意思是已声明而未初始化，如果直接未声明，控制台会报错说“ReferenceError：myvar is not defined”。<br>  为什么会出现这么个打印结果？因为在变量的作用域内，不管变量在何处声明，都会被提升到作用域的顶部，但是变量初始化的顺序不变。这里涉及到<code>JavaScript</code>引擎的编译步骤，简单说一下：<br>  <code>JavaScript</code>在看到<code>var myvar = &#39;内部变量值3&#39;</code>时，并没有当作一个声明，而是两个声明：var myvar 和 myvar = ‘内部变量值3’。第一个定义声明是在编译阶段由编译器处理的，第二个赋值声明则在原地等待执行阶段由引擎来处理。<br>  由于定义声明都在复制操作前面，这就相当于声明被提升了，初始化数据还在原处，代码段3相当于变成了这样：</p><blockquote><p>//代码段3的实际呈现—————————-<br>    var myvar = ‘变量值3’;<br>    (function() {<br>      var myvar；<br>      console.log(myvar); // undefined<br>      myvar = ‘内部变量值3’;<br>     })();  </p></blockquote><p>说完变量提升，再来看一下这段代码：</p><pre class="line-numbers language-javascript"><code class="language-javascript">     <span class="token comment" spellcheck="true">//代码段4----------------------</span>     <span class="token keyword">var</span> myvar <span class="token operator">=</span> <span class="token string">'变量值4'</span><span class="token punctuation">;</span>      <span class="token punctuation">(</span><span class="token keyword">function</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>        console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>myvar<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment" spellcheck="true">// 变量值4</span>       myvar <span class="token operator">=</span> <span class="token string">'内部变量值4'</span><span class="token punctuation">;</span>      <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>4.应该很好理解了，这个其实相当于代码段2。</p><h4 id="“提升”的总结"><a href="#“提升”的总结" class="headerlink" title="“提升”的总结"></a>“提升”的总结</h4><p>通过上面四个例子，可以理解：变量提升其实是对变量定义声明的提升，赋值操作是留在原地的。函数提升和变量提升道理一样，看例子：</p><pre class="line-numbers language-javascript"><code class="language-javascript"><span class="token function">foo</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token keyword">function</span> <span class="token function">foo</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span><span class="token keyword">var</span> a <span class="token operator">=</span> <span class="token number">2</span><span class="token punctuation">;</span>console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>a<span class="token punctuation">)</span><span class="token punctuation">}</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>其实相当于</p><pre class="line-numbers language-javascript"><code class="language-javascript"><span class="token keyword">function</span> <span class="token function">foo</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span><span class="token keyword">var</span> a <span class="token operator">=</span> <span class="token number">2</span><span class="token punctuation">;</span>console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>a<span class="token punctuation">)</span><span class="token punctuation">}</span><span class="token punctuation">;</span><span class="token function">foo</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 前端 </tag>
+            
+            <tag> JavaScript </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Git使用流程简记</title>
+      <link href="/2021/04/09/git-shi-yong-liu-cheng-jian-ji/"/>
+      <url>/2021/04/09/git-shi-yong-liu-cheng-jian-ji/</url>
+      
+        <content type="html"><![CDATA[<p>前言：好久没有用Git，很基础的东西也只能从新查起，此文记录自己最常用的Git命令。</p><a id="more"></a><h4 id="一、关联仓库"><a href="#一、关联仓库" class="headerlink" title="一、关联仓库"></a>一、关联仓库</h4><p>首先新建一个空仓库</p><blockquote><p> $ git init<br>$ git remote add origin &lt;远程仓库地址&gt;</p></blockquote><p>假如不幸关联错了，就删除：</p><blockquote><p>git remote rm origin</p></blockquote><h4 id="二、提交代码"><a href="#二、提交代码" class="headerlink" title="二、提交代码"></a>二、提交代码</h4><p>1.使用命令git add，如需全部提交： </p><blockquote><p>$ git add -A</p></blockquote><ol start="2"><li>使用命令git commit -m “提交记录”，完成。</li></ol><h4 id="三、打标签"><a href="#三、打标签" class="headerlink" title="三、打标签"></a>三、打标签</h4><p>首先，切换到需要打标签的分支上，如已在目标分支则跳过这一步：</p><blockquote><p>$ git branch<br>$ git checkout master</p></blockquote><p>然后，敲命令git tag <name>：</name></p><blockquote><p>$ git tag v1.0</p></blockquote><h4 id="四、推送到远程"><a href="#四、推送到远程" class="headerlink" title="四、推送到远程"></a>四、推送到远程</h4><p>推送到远程吧～</p><blockquote><p>$ git push -u origin master</p></blockquote><p>这里只是目前常用的命令，不断添加中……</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> git </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Ubuntu18-04图形化界面构建记录</title>
+      <link href="/2021/03/30/ubuntu18-04-tu-xing-hua-jie-mian-gou-jian-ji-lu/"/>
+      <url>/2021/03/30/ubuntu18-04-tu-xing-hua-jie-mian-gou-jian-ji-lu/</url>
+      
+        <content type="html"><![CDATA[<p>前言：之所以使用18.04，是因为在最新版本中连接VNC出现完全无法点击的问题，故障待排，敬请指教。</p><a id="more"></a><h2 id="一、VNC的安装与配置"><a href="#一、VNC的安装与配置" class="headerlink" title="一、VNC的安装与配置"></a>一、VNC的安装与配置</h2><ul><li>安装之前先输入</li></ul><blockquote><pre><code>apt-get updatesudo apt-get upgrade</code></pre></blockquote><p>获取最新套件的信息。</p><ul><li>输入以下命令安装VNC(已将安装过则显示版本信息)：</li></ul><blockquote><pre><code>apt-get install vnc4server</code></pre></blockquote><p>注意：这里只针对Ubuntu18.04有效（诸如Ubuntu20.04就没有vnc4server了，但是有功能相同的安装包），更高级别系统请查询：</p><blockquote><p>apt-cache search vncserver</p></blockquote><ul><li>启动VNC（这里不管用什么安装的vnc，命令都一样）</li></ul><blockquote><pre><code>vncserver</code></pre></blockquote><ul><li><p>设置密码 （可能会出现密码不符合要求，注意提示即可）</p></li><li><p>启动成功后会提示诸如：</p><blockquote><p>New ‘vultr.guest:1 (root)’ desktop is vultr.guest:1<br>Starting applications specified in /root/.vnc/xstartup<br>Log file is /root/.vnc/vultr.guest:1.log</p></blockquote></li></ul><h2 id="二、gnome-桌面环境安装与配置"><a href="#二、gnome-桌面环境安装与配置" class="headerlink" title="二、gnome 桌面环境安装与配置"></a>二、gnome 桌面环境安装与配置</h2><ul><li>安装x－windows的基础</li></ul><blockquote><pre><code>sudo apt-get install x-window-system-core</code></pre></blockquote><ul><li>安装登录管理器</li></ul><blockquote><pre><code>sudo apt-get install gdm</code></pre></blockquote><ul><li>安装Ubuntu的桌面</li></ul><blockquote><pre><code>sudo apt-get install ubuntu-desktop</code></pre></blockquote><ul><li>安装gnome配套软件</li></ul><blockquote><pre><code>sudo apt-get install gnome-panel gnome-settings-daemon metacity nautilus gnome-terminal</code></pre></blockquote><ul><li>修改VNC配置文件（这里就不详细说明vim命令了）</li></ul><blockquote><pre><code>vi ~/.vnc/xstartup</code></pre></blockquote><p>修改为:</p><pre class="line-numbers language-bash"><code class="language-bash"><span class="token shebang important">#!/bin/sh</span><span class="token comment" spellcheck="true"># Uncomment the following two lines for normal desktop:</span><span class="token function">export</span> XKL_XMODMAP_DISABLE<span class="token operator">=</span>1 unset SESSION_MANAGER<span class="token comment" spellcheck="true"># exec /etc/X11/xinit/xinitrc</span>unset DBUS_SESSION_BUS_ADDRESSgnome-panel <span class="token operator">&amp;</span>gnome-settings-daemon <span class="token operator">&amp;</span>metacity <span class="token operator">&amp;</span>nautilus <span class="token operator">&amp;</span>gnome-terminal <span class="token operator">&amp;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><ul><li>杀掉原桌面进程（这一步也可以是重启Ubuntu），输入命令（其中的:1是桌面号）：</li></ul><blockquote><pre><code>vncserver -kill :1</code></pre></blockquote><ul><li>输入以下命令生成新的会话：</li></ul><blockquote><pre><code>vncserver :1</code></pre></blockquote><p>如果你没有使用阿里云等需要设置安全组的服务器，就可以直接进行下一步了。如果需要，就千万不要忘记开放VNC服务需要用到的5900和5901端口。具体操作在你的服务器提供商的论坛搜就好了。</p><h2 id="三、本地使用VNC连接"><a href="#三、本地使用VNC连接" class="headerlink" title="三、本地使用VNC连接"></a>三、本地使用VNC连接</h2><ul><li><p>下载官网安装包<a href="https://www.realvnc.com/en/connect/download/viewer/" target="_blank" rel="noopener">VNC Viewer</a></p></li><li><p>本地安装VNC后，打开软件，使用<code>ip:1</code>的方式连接（即“服务器ip地址：1”）</p></li><li><p>输入之前设置的VNC密码后点击连接（是自己设置的，不是服务器密码哈～）</p></li><li><p>连接成功即可看到Ubuntu桌面的界面了</p></li></ul><p>主要参考文章：<a href="https://www.jianshu.com/p/496b78588c40" target="_blank" rel="noopener">阿里云｜VNC搭建Ubuntu可视化界面</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>firewalld开放端口</title>
+      <link href="/2021/03/27/firewalld-kai-fang-duan-kou/"/>
+      <url>/2021/03/27/firewalld-kai-fang-duan-kou/</url>
+      
+        <content type="html"><![CDATA[<p>博主这次买的centos7自带的firewalld，和之前的ipatches很不一样，所以学习了下在firewalld下开放端口。以开启a服务500端口为例。</p><a id="more"></a><h4 id="首先是一些最基本的关于firewalld的命令："><a href="#首先是一些最基本的关于firewalld的命令：" class="headerlink" title="首先是一些最基本的关于firewalld的命令："></a>首先是一些最基本的关于firewalld的命令：</h4><blockquote><p>启动：<br>$ <code>systemctl start firewalld</code><br> 查看状态：<br> $ <code>systemctl status firewalld</code><br>或者<br> $ <code>firewall-cmd --state</code><br> 停止：<br> $ <code>systemctl disable firewalld</code><br> 禁用：<br> $ <code>systemctl stop firewalld</code></p></blockquote><h4 id="以下是一些关于vim最基本的的操作："><a href="#以下是一些关于vim最基本的的操作：" class="headerlink" title="以下是一些关于vim最基本的的操作："></a>以下是一些关于vim最基本的的操作：</h4><p>1  用vi打开一个yum文件：<br>　　<code>vi /usr/bin/yum</code><br>2  按 i 键后  进入insert模式，进入insert模式后才能进行修改<br>3 修改<br>4  按esc键退出修改模式<br>5  然后:wq 保存文件并退出vi（注意有个冒号）　</p><h3 id="好了，现在开始具体操作～"><a href="#好了，现在开始具体操作～" class="headerlink" title="好了，现在开始具体操作～"></a>好了，现在开始具体操作～</h3><p>1 查看firewall是否运行,下面两个命令都可以：</p><blockquote><p>$ <code>systemctl status firewalld.service</code><br>$ <code>firewall-cmd --state</code></p></blockquote><p>2 查看当前开了哪些服务：</p><blockquote><p>$<code>firewall-cmd --list-services</code><br>其实这里的每一个服务名对应对应/usr/lib/firewalld/services下面一个xml文件，文件有描述该服务用了什么协议，对应的端口号，这些端口即为外界可以访问的端口。</p></blockquote><p>3 查看还有哪些服务可以打开</p><blockquote><p>$ <code>firewall-cmd --get-services</code><br>你可以现在这里找找有没有你需要开启的服务（例如http或者db2），如果有，比如你要打开http的80端口，就可以跳到下文查看打开方法了，如果没有的话，根据上面说的，每一个服务对应一个xml，这时你就需要自己创建一个xml文件，才能开启相应的服务了。（博主猜测这里可以偷懒，把已有的xml文件改下端口号好了，但是为了不给以后的端口操作带来隐患，还是老老实实新建文件吧） </p></blockquote><p>4  自己添加一个服务：<br>（这里用到一些简单的文件操作命令，一并附上）</p><p>a. 进入防火墙规则所在目录</p><blockquote><p>$ <code>cd /usr/lib/firewalld/services</code>  //cd后面有空格</p></blockquote><p>b. 随便拷贝一个xml文件到一个新名字，比如ssh.xml,</p><blockquote><p>$ <code>cp ssh.xml a.xml</code> //把ssh.xml复制粘贴，并重新命名为a.xml</p></blockquote><p>c.由于你现在已经在a.xml所在的文件夹里面了，直接输入 vim a.xml 即可编辑文件。</p><p>e.把里面的short（这个改不改基本没有什么问题，只是为了方便阅读）、protocol、port修改掉，注 千万不要不小心改掉了里面的必须格式，比如博主把<short>的“&gt;”给删掉了，导致文件读不出来，防火墙都启动不了。其中protocol可以通过命令查看：</short></p><blockquote><p>$ <code>netstat -anp | grep 500</code>  //你的端口号 </p></blockquote><p>显示的第一列就是你所用到的协议，有时可能显示tcp6这种协议加序号的格式，依旧是tcp协议。</p><p>f.然后更新防火墙规则：</p><blockquote><p>$ <code>firewall-cmd --reload</code></p></blockquote><p>g.查看还有哪些服务可以打开# firewall-cmd –get-services，现在应该可以看到你添加的a.xml服务。<br>此时就可以添加你的a服务到firewalld，执行命令：</p><blockquote><p>$ <code>firewall-cmd --add-service=a</code></p></blockquote><p>这样添加的service当前立刻生效，但系统下次启动就失效，可以测试使用。要永久开发一个service，加上 –permanent：</p><blockquote><p>$<code>firewall-cmd --permanent --add-service=a</code></p></blockquote><p>h. 这时候你的新增端口就可以被外网访问，你可以试试telnet命令看看有没有成功。<br>假如你的外网依旧无法telnet的话，可以试试重启一下firewalld服务</p><blockquote><p>$ <code>firewall-cmd --reload</code>  //在不改变状态的条件下重新加载防火墙。 </p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Mac汇编环境配置及自动挂载</title>
+      <link href="/2021/02/11/mac-hui-bian-huan-jing-pei-zhi-ji-zi-dong-gua-zai/"/>
+      <url>/2021/02/11/mac-hui-bian-huan-jing-pei-zhi-ji-zi-dong-gua-zai/</url>
+      
+        <content type="html"><![CDATA[<p>前言：每次使用DOSBox都要挂载一遍，故记录自动挂载方法。</p><a id="more"></a><p>1.下载：在官网安装DOSBox，masm5（你可以放在任意文件夹，但要知道具体放在了哪里）</p><p>2.挂载：</p><ol><li>打开DOSBox，输入 mount c （注意c后面有空格）,然后跟上你masm5的文件目录，如果成功就会出现<code>Z：\&gt;C:</code>，如果提示找不到文件，就再检查下文件目录写对没有。<blockquote><p>例：mount c ～/desktop/DOSBOX/masm5<br>我是将masm5放在了桌面的DOSBOX文件夹里（～代表mac用户目录，就可以不用写/USers/xxx那一串）。</p></blockquote></li><li>输入 <code>c：</code></li><li>输入<code>debug</code>（只是打开debug这样的一个程序，你的程序名未必叫debug，可以直接进入masm5等汇编开发工具中查看程序名）</li><li>让我们输入 <code>u</code>查看一下配置好了没有，如图说明已经可以使用了。<br><img src="/img/one.png" alt="1"></li><li>设置初始登陆配置：这个时候，我们已经可以开始写汇编程序了，但是每次打开DosBox都需要重新挂载（即第二节中的1.2.3步），所以现在设置一下。<br>Mac的DOSBox配置文件在~/Library/Preferences/DOSBox 0.74 Preferences（注意！一定不要找错了。）在文件最下面有<br><img src="/img/tip.png" alt="tip"><br>可以看到提示让你挂载，这个时候输入前文第一、二步中的命令，注意大小写不要错了。这里就相当于软件每次启动自己执行这两步，不需要你手动输入了。<br>配置好后重新打开DOSBox，如图，可以敲下debug后使用了～</li></ol><p><img src="/img/2.png" alt="2"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 计算机基础 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>私人书单·大学的阅读回忆</title>
+      <link href="/2021/02/02/booklist/"/>
+      <url>/2021/02/02/booklist/</url>
+      
+        <content type="html"><![CDATA[<p>前言：阅读是我不变的爱好，大学几年最喜欢的地方就是图书馆了吧。下面这些书主要选自在图书馆借过的书，既是我想推荐给他人的，也是我想收藏的，等以后有自己的书房了，我应该还会再买一遍吧。</p><a id="more"></a><h4 id="第一部分-幽默专篇（我最喜欢的类别，读书本就是件好玩的事，这篇里面有绘本-小说-随笔，共同特点是读着读着笑出声，当然也有很多是冷幽默）"><a href="#第一部分-幽默专篇（我最喜欢的类别，读书本就是件好玩的事，这篇里面有绘本-小说-随笔，共同特点是读着读着笑出声，当然也有很多是冷幽默）" class="headerlink" title="第一部分 幽默专篇（我最喜欢的类别，读书本就是件好玩的事，这篇里面有绘本/小说/随笔，共同特点是读着读着笑出声，当然也有很多是冷幽默）"></a>第一部分 幽默专篇（我最喜欢的类别，读书本就是件好玩的事，这篇里面有绘本/小说/随笔，共同特点是读着读着笑出声，当然也有很多是冷幽默）</h4><p>1.《三怪客泛舟记》杰罗姆·K·杰罗姆 著</p><p> 一本著名的幽默小说，据说被《绅士》杂志评为最幽默的50部文学作品（我真的很想知道其它49部是什么……）。大意讲述了三人一狗的泰晤士河之旅，文风轻松而欢快，适合忽然觉得生活很无聊的某些时刻，或许能让你体会到平淡生活中的微妙细节。因为内容很日常，也有的人觉得这本书很啰嗦，确实，书里有不少吐槽风格的文字，其实正是我们的思想写照，比如这酷似医学生综合征的一段：</p><blockquote><p>“ 我坐在那里（答主注：图书馆）不觉毛骨悚然。在失望的百无聊赖钟，我又往后翻，翻到伤寒，读了读症状，发现我害上这个病了！已经害了几个月了，而我还一点也不知道呢！于是，我想，我是不是还害有其他别的病？翻到圣维沓斯舞蹈病,和我所预料的一样,我也害有这种病。这时我对我的病产生了兴趣,决定要弄个水落石出。于是我按照字母顺序，从头看起。我首先看到的是疟疾。我正害着这个病，高烧期是隔周一次。布赖特氏肾炎，我发现，我也有。使我感到安慰的是，还并不很严重。单单这个病，我还可以活很多年。霍乱我不仅有，而且带有严重的并发症。白喉似乎我一生下来就有。我认真地把二十六个字母从头到尾看了一遍。唯一可以说我没有的病使膝盖骨囊炎。”</p></blockquote><p>2.《懒人闲思录》/《闲人痴想录》杰罗姆·K·杰罗姆 著</p><p> 中文译名不止一种，书是同一本。这本书是由很多话题的随笔组成，主要内容是“懒人”思想家对社会现象的种种看法，讨论的东西既有日常所感也有爱情人生，轻松之余也有很多朴素的人生道理。先摘一段文中“我”的自黑：</p><blockquote><p>“ 懒散度日的确是我自认为十分擅长的题目，这点可不是我自夸。小时候，有位先生每学期收我九几尼——不再额外收费——让我沐浴在智慧的清泉里。他说，他从来没见过哪个男孩能比我用更多的时间，做更少的功课。”</p></blockquote><p>3.《幽梦影》 张潮等 著 </p><p>这也是一部话题广泛的随笔，但每则非常短，仅有几句话而已，有趣的是每篇文字下面都有几个评论，比如文中第22则“</p><blockquote><p>原文：艺花可以邀蝶，累石可以邀云，栽松可以邀风，贮水可以邀萍，筑台可以邀月，种蕉可以邀雨，植柳可以邀蝉。”下面跟着一堆评论：<br>曹秋岳曰：藏书可以邀友。<br>崔莲峰曰：酿酒可以邀我。<br>尤艮斋曰：安得此贤主人？<br>……<br>因此有人说这本书就是古代的朋友圈吧，不过这本书可也不是简单的对生活发发感慨，许多则内容可是原作者认认真真地讲道理来着，不过评论看着看着就歪了楼。</p></blockquote><p>4.《我遇见了人类》 马特•海格 著</p><p>人类，是个什么物种？《我遇见了人类》用外星人的视角展开了对人类的观察，里面充满了对人类的“残酷”吐槽，但这些令人忍俊不禁的犀利言辞背后，或许也值得我们反思，例如文中这一段对人类的评价：</p><blockquote><p> “此时我不禁想到，这类物种具有一种惊人的天赋即听风就是雨。在我还尚未完全领悟占星术、顺势疗法、宗教团体和益生菌酸奶的概念之前，我就知道人类特别容易受骗，这也许是因为他们缺乏外表上的魅力，正所谓美不够，蠢来凑。跟他们说话只要语气中的信服力足够，他们就会相信。真是什么都信，当然，除了事实。”这段话是不是很不给面子？</p></blockquote><p>5.《一个医生的非医学词典》叶维之 著</p><p>书如其名，这真的是一本词典，一本由一个妇产科男医生所编纂的无关医学的词典，配图还挺可爱的，对每个词语的解释也很新颖。比如：汉堡包——和包子、馒头夹肉及馅饼争斗胃肠领地的外国坦克。剃须刀——面部除草机。<br>许多解释让人会心一笑，也有的让人不敢苟同，所以轻松翻过即可，大概半小时就能看完全书，所以如果你买下来……呃，可能会有点心疼。</p><p>6.《作死的发明》  [英] 安迪·莱利 著</p><p>黑白绘本，画了许多脑洞大开的发明，比如用粉笔DIY补牙，一次性可以叉起所有薯条的叉子……无厘头又新鲜，如果你身边有图书馆，不妨搜索下这本书，作为学习之余的调剂还是很棒的。</p><p>7.《翻白眼吧！温蒂妮小姐》  温蒂妮小姐 著</p><p>也是绘本，配有文字，充满对生活的吐槽。适合消遣/调剂/送基友。</p><p>8.《我只是对人生过敏》 兰迪诗 </p><p>插画独特的绘本，原版英文，词汇不难，直接读原版可以更好理解某些双关。都是些简短而犀利的句子，如：</p><blockquote><p>Old people at weddings always poke me and say “You’re next.” So, I started doing the same thing to them at funerals.</p></blockquote><blockquote><p>Everyone’s getting a boyfriend and you know what i’m getting? FATTER.</p></blockquote><p>9.《万能生存指南》澳大利亚Lonely Planet公司 著</p><p>没想到这么“不正经”的画风居然出自大名鼎鼎的孤独星球，好吧，也许你旅行的时候说不准真的会需要它，比如怎么进行太空行走，丧尸围城了怎么办，应对核爆炸的场景，甚至还有致死原因概率图？（这指南的范围也太广了吧）。太多太多场景了，不至于“万能”，但也确实很长见识，也有一些每个人都能学到的问题啦，比如：如何活到100岁？</p><p>10.《不简单的生活系列》 （法国）让·雅克·桑贝 著</p><p>作者有好几本风格类似的绘本，黑白色，文字很少，画的往往是小人物，小情节，不过也不限于日常，还有一些时事漫画（对现在来说已经“过时”），有些梗可能不太懂，不过大部分都很简单有趣。个人觉得这系列也适合买回家闲时翻看，因为指不定哪次能发现以前没注意到的细节。</p><p>11.《你今天真好看》系列  [美]莉兹•克里莫 著</p><p>这书太火了，就不介绍了，值得一提的是朋友问我有什么书可以推荐给他喜欢的女孩子，我推荐了这系列，然后他说看了下感觉这本书需要不少背景知识，未必好懂，我这才意识到这本书不是老少咸宜的送礼佳品。</p><p>12.《别逗了，费曼先生》 R.费曼 著</p><p>伟大的人是写进教科书里面的，以前物理书上严肃的名字令人望而生畏，但看看这本书，却像是一个活生生的人在讲他的人生经历。这本书的笔风未必说有多搞笑，但看看“天才”的日常，还是颇有反差萌的。</p><p>13.《手机新娘：我和siri100天》  大卫·米尔格里姆著</p><p>据说看原版可以学到如何调戏siri……</p><h4 id="2-引人入胜故事篇（不一定是经典，但让人手不释卷）"><a href="#2-引人入胜故事篇（不一定是经典，但让人手不释卷）" class="headerlink" title="2.引人入胜故事篇（不一定是经典，但让人手不释卷）"></a>2.引人入胜故事篇（不一定是经典，但让人手不释卷）</h4><p>1.《十日谈》 薄伽丘 著</p><p>不厚的小书，如果你现在不是很想读长篇，或者纯粹想消磨车上短暂的可用时间（如果能看书的话），随拿随放的《十日谈》是个不错的选择，故事背景是1348年，意大利一城市瘟疫流行，10名青年男女在乡村一所别墅里避难，他们每人每天讲一个故事，于是10天就有了100个故事。你可以随意读自己想读的篇章，无论它曾经是否有什么深意。</p><p>2.《追风筝的人》  [美] 卡勒德·胡赛尼 著</p><p>太火了，就不介绍了，顺便一提这本书的电影版有在新疆喀什取景，我第一次看的时候根本没注意到……</p><p>3.《灿烂千阳》  [美] 卡勒德·胡赛尼 著</p><blockquote><p>“私生女玛丽雅姆在父亲的宅院门口苦苦守候，回到家却看到因绝望而上吊自杀的母亲。那天是她十五岁的生日，而童年嘎然而止……”</p></blockquote><p>一般来说，我觉得没必要专门分类“推荐给女生读的书”，但这本书，我真想专门推荐给女生，关于两个阿富汗女子的一生，遥远的你读完是否会恍如隔世。</p><p>4.《我在伊朗长大》  玛赞·莎塔碧 著</p><p>黑白绘本，有电影版。这本书是作者十四年间的个人成长史，但透过这本书可以了解到当时的伊朗，那时候在伊斯兰革命之后建立的伊朗伊斯兰共和国，与邻国伊拉克打了八年战争，大量戴着天堂钥匙的年轻男孩被送到战场上，充满紧张氛围的街道，女子不穿布卡便会囚禁的严苛，这是现代生活的我们很容易忽略的一切吧。<br>虽然当时的大环境很糟糕，不过作者出生于一个相对开明又条件优渥的家庭，画风也不是从头到尾的灰暗，也有些风趣的语言和朴素的道理。</p><blockquote><p>“人的一生中会遇到很多怪人。如果这些怪人伤害了你，就对你自己说：这是因为他们愚蠢。这样你就不会对他们的残酷做出反抗了。因为没有比仇恨和复仇情绪更糟的东西了……永远保持你的尊严，真诚地对待你自己。”</p></blockquote><p>5.《活着》+《兄弟》余华 著</p><p>余华的《活着》，《许三观卖血记》都非常有名，《兄弟》见人提得少些，但经典毋需多言，这几本小说的情节都没有纯粹的幸与不幸，往往是福祸相依，而这不也是生活本质？顺便想说的是：电影版的《活着》有几处较大改动，其实原文更有戏剧性，比如福贵儿子的死因，这几本书都有其时代背景，缺少某些知识可能就会忽略某些细节，比如《兄弟》中有一幕估计绝大多数人都会忽视，历史是否应该铭记我并不确定，但读时如能恍然大悟，也只是徒留叹息。</p><p>6.《呼兰河传》 萧红 著</p><p> “人生究竟是为了什么，才会有如此荒凉的夜”。这本《呼兰河传》大概就适合秋夜来读，凉而不寒。也许是因为萧红本身就是个心思敏感的女子，她的文字也是细腻而多情，呼兰河是萧红生长的地方，回忆起那个小镇，既有属于孩童的纯真时光，也有对封建礼教的迷惑不解，感情想必很复杂。这本书情节性不是很强，语言非常生动，如开篇这一段：</p><blockquote><p>“严冬一封锁了大地的时候，则大地满地裂着口。从南到北，从东到西，几尺长的，一丈长的，还有好几丈长的，它们毫无方向地，便随时随地，只要严冬一到，大地就裂开口了。 严寒把大地冻裂了。年老的人，一进屋用扫帚扫着胡子上的冰溜，一面说：“今天好冷啊！地冻裂了。”<br>　　赶车的车夫，顶着三星，绕着大鞭子走了六七十里，天刚一蒙亮，进了大车店，第一句话就向客栈掌柜的说：<br> “好厉害的天啊！小刀子一样。”<br>　　等进了栈房，摘下狗皮帽子来，抽一袋烟之后，伸手去拿热馒头的时候，那伸出来的手在手背上有无数的裂口。<br>　　人的手被冻裂了。<br>　　卖豆腐的人清早起来沿着人家去叫卖，偶一不慎，就把盛豆腐的方木盘贴在地上拿不起来了，被冻在地上了。”</p></blockquote><p>7.《赡养人类》 刘慈欣 著</p><p>对于刘慈欣，大家应该很熟悉了，《赡养人类》其实只是一个短篇，跟在《赡养上帝》后面，依旧是脑洞大开，而这一篇又细思恐极。比如这一段：“在我曾祖父的时代，第一地球60%的财富掌握在一千万人手中；在爷爷的时代，世界财富的80%掌握在一万人手中；在爸爸的时代，财富的90%掌握在四十二人手中。到最后，财富被高度集中到了一个人的手中，他被称为终产者。贫富差距被放大到极致，第一地球变成了一个富人和20亿穷人共存的世界。虽然在那20亿穷人中也存在着贫富差距，但他们总体拥有的财富只占世界财富总量的l％。”和这篇小说类似架构的有一个短篇，《北京折叠》（ 郝景芳 著），网上可以搜着看，读来也是让人倒吸一口凉气。</p><p>8.《四十一炮》 莫言 著</p><p>魔幻的小说，读起来时空混乱，却又好奇主人公罗小通又会遇到什么事呢？主角是一个非常爱吃肉的孩子，评价“嗜肉痴”绝不过分（罗小通曾经说过，只要给我肉吃，就是我的亲爹。），通过他的叙述，让我们看到了一个光怪陆离的世界……</p><p>9.《胚胎奇谭》  [日] 山白朝子 著</p><p>一个人捡到了一个小胚胎，没错，就是人类的胚胎。如果你见过流产下来的胚胎，就是那样的完整的人形，却不是死的，而是可以通过淘米水来喂养，拥有人体的温度，也会动来动去表达自己的不安。一人一胚胎就这样相依活下去，而这个小胚胎，会永远这样下去吗？<br>《胚胎奇谭》这本书包含了好几个独立故事，都是些志怪小说，可能最治愈的就是第一篇了。后面有的故事还是挺揪心的。</p><p>10.《忒修斯之船》  [美] J.J.艾布拉姆斯 / [美] 道格·道斯特 著</p><p>这是一本不同以往的书，一本不像书的书，书的背景是两个人借阅图书馆的一本书并在书页上不断互动的过程（其实这样乱涂乱图不好），书的内容成谜，两个人的互动也就仿佛解谜之旅。此书精美的装帧加上众多附件，让人回忆起小时候看冒险小虎队时DIY破案的新鲜感，但这本书可比童年回忆复杂多了，所以能不能读完不敢保证，但放在桌子上摆成一片真的很惊艳。</p><p>11.《人间失格》 太宰治</p><p>有点纠结该不该列出这本书的，而且这本书还是在看完电影《被嫌弃的松子的一生》后所读，但一千个人心中有一千个哈姆雷特，这本书读着就让人好奇后续，文风也是少见的独特视角。不过我还是想啰嗦一句，读这本书，真的可以搭配我前面幽默专篇里提到的书，不要陷入同一情感的漩涡，生活绝不是单一的。</p><p>12.《穆斯林的葬礼》  霍达 著</p><p>这本书的评价很有争议，功过是非价值观暂不提，情节还是很波折的。这本书大的说是讲了一个穆斯林家族几十年的兴衰史，小的说感觉是几个人的情感纠葛……（题外话，我本来看书名以为是讲的那啥完蛋了，心想还有这种书呢，结果人家真的是开篇即葬礼。）</p><p>13.《1984》  [英] 乔治·奥威尔 著</p><p>过于经典就不介绍了，作者的《动物庄园》也是独特的经典。如果你喜欢这本书，也喜欢玩游戏，暗戳戳推荐你一款向1984致敬的游戏，Beholder（第一部是二维画面，第二部是三维的），还有beholder类似的“别喂猴子”，还有……呃，打住打住，没完了要……</p><p>14.《罗生门》  [日] 芥川龙之介 著</p><p>每次看媒体说罗生门就想到这本书，其实现在所常用的“罗生门”这一词汇，以及电影《罗生门》源自自芥川龙之介的短篇《竹林中》，还没读过原著的不妨看看，里面的真相的确是扑所迷离的……<br>这本书包括几个独立小短篇，其中《地狱变》也是经典，几个短篇各自揭露人性的不同阴暗面，读来喟叹。</p><p>15.《俗世奇人》 冯骥才 著</p><p>我们的小学课本有其选篇（不知道现在还有没有了），所谓行行出状元，读着也怪惊奇的。</p><p>16.《苏菲的世界》  （挪威）乔斯坦·贾德 著</p><p>有电影，但是小说内容更全面，结局也更好理解，内容简介就很吸引人：</p><blockquote><p>“《苏菲的世界》是讲14岁的少女苏菲某天放学回家，发现了神秘的一封信。—你是谁？—世界从哪里来？就这样，在某个神秘导师的指引下，苏菲开始思索，从古希腊到康德、从祁克果到佛洛佛德等各位大师所思考的根本问题。与此同时，苏菲不断接到一些极不寻常的来信，世界像谜团一般在她眼底展开。苏菲运用少女天生的悟性与后天知识，企图解开这些谜团，然而，事实真相远比她所想的更怪异、更离奇……”<br>这本书虽然介绍了很多哲学史的故事，但完全可以当作一本探险小说来读，非常适合中学生来读。</p></blockquote><p>17.《就说你和他们一样》  [美] 乌文·阿克潘 著</p><blockquote><p>“无论任何人问起你的身份，记住，就说你和他们一样。”<br>这本书的背景是1944年发生在卢旺达的震惊世界的大屠杀，上面那句话则是一位母亲对自己女儿的叮嘱，书中几个故事都是以儿童为第一视角，因为书中大环境，读着总是有种无力感。</p></blockquote><p>18.《紫阳花日记》  [日] 渡边淳一 著</p><p>一对相敬如宾的夫妻，家境优渥，儿女双全。看似和睦的生活，却被丈夫在妻子卧房偶然发现的一本日记给彻底打乱了。 在这本日记里，妻子以女人的敏感和细心，详细记录了她对丈夫不忠的点点观察，但在平日生活中却又绝口不提此事……<br>这本书给人最特别的感觉，可能就是对书中日记本微妙的“偷窥感”，以丈夫的视角观察生活，却又从日记中观察主角。渡边纯一的书对人性多有描写，不同人对其理解可能相距甚远，如果介绍吸引你，读一读未尝不可。</p><p>19.《“文革”轶事》 王安忆</p><p>在特殊时期，一个小人物的成长与生活。</p><p>20.《从小李到老李：一个中国人的一生 》 李昆武 / (法)欧励行 著</p><p>漫画，共三册，描绘了一个普通中国人自20世纪50年代到现在的人生经历，以此见识到半个多世纪以来大环境的改变。<br>读起来很快，画风独特，也是建议借阅。</p><p>21.《米阿的孩子》 李丽萍 著</p><p>年轻的音乐学院学生赵小岚，毕业后被硬派到一个偏僻的小山村“米阿”教书。这里有留守儿童，有单亲家庭的孩子，有捡来的孩子，有受家庭暴力的孩子，还有贫苦被迫辍学的孩子……这些孩子的的父母和亲人既可怜又可恨，无力自救，同时也放弃了孩子……<br>其实关于留守儿童的文学作品并不少见，如果遇到了这本书，不妨看看。</p><p>22.《赤脚医生万泉和》  范小青 著</p><blockquote><p>“万泉和是谁，他学过医吗？没有，但他是万人寿的儿子，他不当医生谁来当呢？在贫困的后窑村，村里人不管你有没有学过医，既然你爹会看病，那你也就会看病。就这样，尽管他爹千般阻拦，万泉和还是无成为了后窑村新的赤脚医生……”<br>这也是本很有年代感的小说，讲述了一个赤脚医生的生活史，也描绘出一幅那时候的农村生活画卷，对好奇当时的赤脚医生生活的来说值得推荐。</p></blockquote><p>23.《心殇：我在伪满洲国读书的日子》  过客 著</p><p>背景如书名，内容是作者的真实回忆，适合好奇那个时候民众生活的人来读。全书由五部分组成：（一）小镇风情，苦涩童年；（二）童年的梦，伪满洲国内的罪恶；（三）日本正统教育，强行自幼奴化；（四）大和精神已潜移默化；（五）伪满洲末年乱世。</p><p>24.《心术》 六六 著</p><p>很是火过一阵的小说，还拍成了电视剧。专业性未必强，但很有戏剧性，有些情节会令人心酸又无奈，这倒是很符合实际。关于医院的小说有很多，个人建议适度且有所选择，描写医院黑暗和灰色地带的书看多了怕是容易进入思想误区。这本书不错，至少没有从患者角度把医生当作假想敌。</p><p>25.《萧萧》 沈从文著</p><p>一本短篇小说集，《萧萧》是其中一篇，萧萧是一个不到十二岁的女孩，却有了个年纪不过三岁的丈夫，之后会如何呢？就不剧透了。全书或许没有那么多惊心动魄，但作者的文字一向流畅如水，读起来毫不晦涩。<br>26.《酉阳杂俎》  段成式 著</p><p>各种各样的故事，奇妙又玄幻，需要一定的文言水平。</p><h4 id="3-世界很大探索篇（很多社科书籍，有的是用一种轻松的口吻讲述了学科的发展，有的纯属猎奇——竟然还有这种操作？！更多的是见识更广阔的世界。）"><a href="#3-世界很大探索篇（很多社科书籍，有的是用一种轻松的口吻讲述了学科的发展，有的纯属猎奇——竟然还有这种操作？！更多的是见识更广阔的世界。）" class="headerlink" title="3.世界很大探索篇（很多社科书籍，有的是用一种轻松的口吻讲述了学科的发展，有的纯属猎奇——竟然还有这种操作？！更多的是见识更广阔的世界。）"></a>3.世界很大探索篇（很多社科书籍，有的是用一种轻松的口吻讲述了学科的发展，有的纯属猎奇——竟然还有这种操作？！更多的是见识更广阔的世界。）</h4><p>1.《人类尸体的奇异生活》  玛丽·罗琦 著</p><p>看名字就知道这本书由多特别了。人死以后，尸体会怎么样呢？开篇没几页，就是一段详细描述尸体腐烂过程的文字，之后描写的尸体的用途，葬礼的介绍，无一不是把尸体写得和朋友一样自然。不过这本书口味还是略重的，酌情阅读。</p><p>2.《智商测试：一段闪光的历史》  [美]斯蒂芬·默多克 著</p><p>测试，现在我们有各种测试，比如你的大脑年龄是多少？你的花心指数有多少？还有MBTI等各种各样的测试。看来人对自身的好奇是强烈的，那么你有没有做过智商测试呢？<br>这本书讲述的就是智商测试从起源到发展，但书的内容并不轻松，智商测试这个工具的准确性本就存疑，而在诸如二战的历史时期，更是有很多人因此受苦。<br>如果你总是对自己的智力不够自信，甚至纠结于如何变聪明，不妨看看这本书，理智看待这些概念。</p><p>3.《毒物简史》 史志诚 著</p><p>作为一本毒理学科普，读起来还是很长见识的。了解一下防患未然或许亦可？</p><p>4.《程序是怎么跑起来的》 矢泽久雄 著</p><p>简单通俗的计算机科普，姐妹篇有《计算机是怎样跑起来的》，适合0基础对计算机感兴趣的人。</p><p>5.《哪些科学观点必须去死》 [美] 约翰·布罗克曼 编著</p><p>提出了许多对科学观点的质疑，但叙述不详，因此难度也就不算大，可能最适合适合喜欢理科的中学生，了解一下开拓视野，至于更科学的论证，尚需不断学习。</p><p>6.《What if：那些古怪又让人忧心的问题》 兰道尔•门罗 著</p><p>这本书脑洞很大，问题也的确古怪。诸如牛排从多高的地方掉下来正好能烤熟？全人类搬离地球需要几步？这样的问题都有认真计算。另外，书里的图画也挺可爱。</p><p>7.《码农翻身》 刘欣 著</p><p>这本书可以作为稍有基础者的计算机科普，插画清新，排版简洁。讲述了计算机的基础知识，java，web后端等等。全书都是用故事的口吻解释计算机原理，理解起来非常形象，读起来也趣味盎然。</p><p>8.《雷劈的真相：神奇的概率事件》 杰弗里·S·罗森塔尔 著</p><p>虽然讲的都是概率事件，但通俗易懂，书中讨论的话题和我们的生活息息相关，比如你会因为担心发生空难而不去乘飞机吗?会因为奖池里累积了上亿奖金而多买几张彩票吗?这些问题对专业的人来说可能太简单了，他们的生活也比很多人更理性。但我觉得大多数人是不具备这种理性的，客观思维在能学习的时候还是学习了好。</p><p>9.《四维世界：从超空间到相对论》 都筑卓司 著</p><p>虽然不太懂，不过毕竟是本难得的专注于讨论四维空间的书……</p><p>10.《一本书的诞生》 赵宏</p><p>简单介绍了一本书是如何面世的，平时喜欢看书的人或许也会对书本身感兴趣吧。</p><p>11.《演员的自我修养》 阿列克塞耶夫•斯坦尼斯拉夫斯基 著</p><p>作者是俄国世界著名演员、导演、戏剧理论家，这本书也可谓经典了。个人觉得看过这本书，有助于提高审美水平。</p><p>12.《骗经》 （明朝）张应俞 著</p><p>一本让你大开眼界的书，里面有各种奇奇怪怪的骗术。虽然是几百年前的故事，但很多也演化成了现代骗术，比如一直存在的“两头骗”，“丢包骗”，“换银骗”……作者本意即是如何防骗，总结起来一个道理：莫贪心！</p><p>13.《漫画国家系列 》（韩）李元馥 著</p><p>如果你对世界很多国家的文化都感到好奇，那么这系列漫画可以增长许多见识，有的书是讲述国家发展历史，有的是描绘民主生活状态，不一而足。遗憾的是内容多为发达国家，像一些东南亚小国就没有涉及了。</p><p>14.《八卦医学史》  烧伤超人阿宝 著</p><p>用耳熟能详的历史故事结合医学知识，适合对医学感兴趣的人，至于历史究竟是怎么样的？……</p><p>15.《漫画医学五千年》  茨木保 著</p><p>五千年的时间毕竟太长了，一本书只能简单概述下而已，但这本漫画有很多令人捧腹的点（如果你喜欢冷幽默的话）。</p><p>16.《编码》  [美] Charles Petzold 著</p><p>讲解详细的科普，计算机0基础也能看完。从二进制是如何工作的到越来越强大的现代图形，知识衔接得很好。</p><p>17.《天空的另一半》  [美] 尼可拉斯·D.克里斯多夫 / [美]雪莉·邓恩</p><p>“妇女能顶半边天”，所以这本书和女性有关。<br>“过去50年来，在世界范围内遭到杀害的女孩，比整个20世纪死于所有战争的男性还要多。仅仅因为她们的性别。”<br> 在普利策新闻奖得主尼可拉斯·D.克里斯多夫和雪莉·邓恩夫妇这对有丰富联合报道经验的记者伉俪的带领下，我们在本书中去亚非拉国家做了一次长途冒险旅行。在那里，我们看到性别歧视、性暴力、厌女价值观、家庭暴力、处女情结等现象，让女性犹如仍置身在18、19世纪的炼狱。我们也看到那里的女性进行了艰苦卓绝的抗争，以及如何一点小小的帮助就能改变她们的命运。（摘自介绍）</p><h4 id="4-发人深省哲思篇"><a href="#4-发人深省哲思篇" class="headerlink" title="4.发人深省哲思篇"></a>4.发人深省哲思篇</h4><p>1.《沉默的大多数》 王小波 著</p><p>算是杂文，《沉默的大多数》只是其中一篇，全书涉及很多问题，包括社会道德、科学与邪道，女权主义、性问题，生育问题，同性恋问题等。既然有观点，那肯定有争议，但作者的思想绝对比现在很多顽固不化的人都要开明。</p><p>2.《相约星期二》  [美] 米奇·阿尔博姆 著</p><p>一个弥留之际的老人，与作者约定每周二会面，讲述了他的人生，他的体会。<br>读这本书，很像是一个学识经验丰富的长辈，面对面对你进行善意的指导。<br>至于有什么收获，可能取决于你当下的心态。</p><p>3.《每个人都会死，但我总以为我不会》  Thomas Cathcart /Daniel Klei 著</p><p>书里有句好玩的话，<br>“我不想活在祖国人民的心中，我只想活在我的公寓里。”<br>死亡是每个人都要面对的，而这本书并不是严肃论证死亡有什么教育意义，而是通过各种诙谐幽默的小故事来思考死亡。</p><p>4.《每当我找到生命的意义，它就又变了》 [美]丹尼尔·克莱恩 著</p><p>人生的意义是什么？读完这本书，你应该还是找不到答案的。</p><p>5.《哲学哲学鸡蛋糕 》 朱家安 著</p><p>相当于哲学问题基本科普，用好懂的例子抛出了一些哲学问题。如果你对深入了解哲学不感兴趣，这类书还是有必要读的。了解诸如举证责任等概念，对思考生活中的问题也有很大帮助。</p><p>6.《哲学关我什么事》  [日]大城信哉 著 </p><p>这本书同样是非常好懂的入门科普，和生活联系非常紧密。</p><p>7.《神逻辑：不讲道理的人怎么总有理》 [美] 阿里·阿莫萨维 著 / [哥伦比亚] 亚历杭德罗·希拉尔多 绘</p><p>画风精美的小书，简洁明了，列举了19中常见的逻辑错误，非常适合大众阅读，虽然内容很简单，但每一种错误你都能在身边找到无数例子……<br>“你行你上啊！” “你知道他有多努力吗？”“别人都结婚，你怎么不结婚？”</p><p>8.《你的邻居是僵尸吗》  [英] 杰里米•斯坦格鲁姆 著</p><p>书名很独特，内容并不难懂，抛出了很多奇奇怪怪的问题。</p><p>9.《大问题：简明哲学导论》</p><p>如果你读了前面几本书感觉到有趣，那么可以再看看这本经典的哲学入门之作，也非常浅显易懂，但相比之下内容连贯得多。</p><p>10.《清醒思考的艺术》/《明智行动的艺术》  [德] 罗尔夫·多贝里 著</p><p>认知陷阱无处不在，本书提出了许多生活化的问题。如果你还不明白沉没成本、幸存者偏差、公地悲剧等名词，不妨看看这本书。很多人长篇大论教你的道理，在这本书里其实也就是一个例子的分析。</p><p>11.《摇摆：难以抗拒的非理性诱惑 》（美）奥瑞·布莱福曼 著</p><blockquote><p>“为什么一名经验老到的飞行员会失去理智地在大雾中强行起飞，以致造成一起恶性撞机事故？将一只持续下跌的股票卖出或者结束一段注定会破裂的关系，为什么会如此之难？为什么一张20美元的钞票竟会被拍卖到204美元？为什么只是因为这个建议来自“重要的”人物，我们便会言听计从？为什么当我们身处危险情境时，更容易坠入情网？针对打折商品，你为什么会不太珍惜？生理与心理有什么样的有趣联系？当你在大海中游泳时遇到了潜流，拼命地往岸边游能顺利逃生吗？当你周围的人都赞成同一个答案时，你会做何选择?”（非常棒的介绍，摘自书中）</p></blockquote><p>12.《用博弈的思维看世界》  蒋文华 著</p><p>你玩过一款“信任”的小游戏吗？和别人合作，你会选择背叛还是信任？不论是这个小游戏，还是这本书里的情景，都让人处于了一个选择的境地——博弈。<br>这本书非常适合与公开课一起看，简单易懂。内容有经典的囚徒困境以及它的生活范例，比如商家打价格战抢占市场，明明亏本也要继续投入资金；排队还是闯红灯，涉及你与司机的较量；公用的物品但往往最容易受到破坏，毕竟损失是大家共同承担，收益却是个人的……最后上升到制度层面，令人深思。<br>如果你没有接触过博弈论，强烈推荐了解一下，总有一个点会让你有收获。</p><p>13.《工作颂歌》 阿兰•德波顿</p><p>确实是颂歌，该书讨论了工作是如何发展的，我们今天是如何工作的？为什么我们要工作？工作给我们带来的是什么？有很多书会讲奋斗的重要性，而这本书是让我们看到工作的奇妙之处。至少，不要带着抱怨的心态工作吧，那会让你痛苦。</p><h4 id="4-闲情雅趣，诗意生活"><a href="#4-闲情雅趣，诗意生活" class="headerlink" title="4.闲情雅趣，诗意生活"></a>4.闲情雅趣，诗意生活</h4><p>（乐趣是主观的乐趣，含阅读/写作/思考）<br>1.《天真与经验之歌》 威廉•布莱克</p><p>诗歌这东西，一旦翻译，有时候是失去韵律，有时候是失去内涵。而这本书已经将原版印了出来，倒是方便欣赏，原版是将诗融进了版画里，由于年代久远已经不太清晰了，但还是可以感受到作者的用心。</p><p>2.《坐店翻书》 扫红著</p><p>开一个旧书店是什么体验？推荐给爱书人。</p><p>3.《查令十字街84号》</p><p>这个地址曾经是一个书店，而这本书则记录了纽约女作家海莲和一家伦敦旧书店的书商弗兰克之间的书缘情缘。信中还提到了许多经典作品，读着不妨顺藤摸瓜看看有无自己喜爱。</p><p>4.《有呀有呀书店》  [日]吉竹伸介 著</p><p>非常治愈的绘本，画风温暖，脑洞也很大，书中有许多关于书的畅想，比如“双人书”，“书店婚礼”，“水中图书馆”等等。虽然有点小贵，不过还是很适合放在家里翻阅的。推荐给每一个爱书的人。</p><p>5.《小说课》 许荣哲 著</p><p>如果想看了就能写出好故事，那未免太心急了。里面的脑洞倒是很独特，比如有首小诗（贴这个不会有事吧……怕怕）：</p><blockquote><p>“一颗痣<br>因为肉体的白<br>成为一座岛<br>我想念你衣服里波光万顷的海”<br>感觉这是“我想和你一起起床”的另一版本哈～</p></blockquote><p>6.《畅销作家写作全技巧》  [日] 大泽在昌 著</p><p>名字有点爆款的感觉，但书的内容可是很认真的。如果你想写写自己小说，不妨看看，也可以单纯开拓下视野。</p><p>7.《金蔷薇》  [俄]帕乌斯托夫斯基 著</p><p>写作，就像用金粉打造出一只蔷薇。书的上半部分主要讲写作，下半部分主要讲作家，仅仅当故事看，也能发现许多八卦。</p><p>8.《你们再也不写了？》（法国）洛朗丝•柯赛</p><p>这本书讲的不是功成名就的作家，而是出过一两本书后便销声匿迹的人。角度新奇，可酌情阅读。</p><h4 id="5-学无止境入门篇"><a href="#5-学无止境入门篇" class="headerlink" title="5.学无止境入门篇"></a>5.学无止境入门篇</h4><p>（面向初学者的专业书籍）<br>1.《西文书法的艺术》  [英]大卫·哈里斯 著</p><p>在这本书，你能看到许多种漂亮的字体。</p><p>2.《master copperplate calligraphy》  Eleanor Winters 著</p><p>个人非常喜欢的一个字体，答主有电子版，想要的可以联系。</p><p>3.《英语说文解字》/《Word Power Made Easy》  [美] 里维斯 (Norman Lewis 著</p><p>一本讲词根词缀的书籍，对于拓展词汇量很有帮助。</p><p>4.《英语魔法师之语法俱乐部》 旋元佑 著</p><p>深入浅出理解英语语法，适合有一定语法基础的人，读完往往让人恍然大悟。</p><p>5.《奈特图谱》 系列  Frank H.Netter著</p><p>虽然是有名的医学专业图谱，但真的很适合每一个备在家中（如果你不会感到害怕），图画非常好看，名词也很细致，买来扫盲也是很值得的。</p><p>6.《The language of medicine》  Davi-Ellen Chabner著</p><p>这个适合大一大二的医学生，结合基础医学和临床的医学术语，生动又好记。如果你是医英专业或者想学些准确又好懂的医学知识的同时扩展词汇量，也是不错的选择。</p><p>7.《漫画生理学》系列  田中越郎 著</p><p>非常好懂的基础医学漫画，是纯漫画，画风幽默，推荐给对医学感兴趣的人。</p><p>8.《Sketchy》系列</p><p>强烈推荐给医学生，这个系列可以说是一张图打尽一箩筐知识点。书是静态的图片，还有视频是作者一步步画的过程。</p><p>后记：整理居然花了一整天，不过还是非常开心，看到这些熟悉的书名，就想到了大学这几年在图书馆悠闲的时光。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 闲趣 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 阅读 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -44,23 +286,10 @@
     
     <entry>
       <title>新年快乐</title>
-      <link href="/2021/01/01/article-title/"/>
-      <url>/2021/01/01/article-title/</url>
+      <link href="/2021/01/01/xin-nian-kuai-le/"/>
+      <url>/2021/01/01/xin-nian-kuai-le/</url>
       
         <content type="html"><![CDATA[<p>劝君更勉励，莫负好时光</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>5W2H | 关于写博客的七点反思</title>
-      <link href="/2020/01/14/5w2h-godweiyang/"/>
-      <url>/2020/01/14/5w2h-godweiyang/</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>关注公众号【算法码上来】，每日算法干货马上就来！</p></blockquote><p><img src="/medias/contact.jpg" alt></p><h2 id="When？什么时候开始写的？"><a href="#When？什么时候开始写的？" class="headerlink" title="When？什么时候开始写的？"></a>When？什么时候开始写的？</h2><p>第一次写博客是 2015 年了，在 CSDN 和博客园上面，当时写文章是为了记录 ACM 竞赛的题解，陆陆续续写了几十篇。但是最后还是没有坚持下去，主要还是因为 CSDN 和博客园的体验太差了，写起文章来很难受，又丑又慢。另一个原因是， CSDN 发个文章还需要审核，定制主题自由度也太差。</p><p>第二次就是 2017 年暑假了，当时自己建了个人博客，域名是：<a href="https://godweiyang.com/" target="_blank" rel="noopener">godweiyang.com</a>。当时的想法是，个人博客好好看，有各种主题，如果会点前端知识，还能自己魔改。个人博客主要更新的就是自然语言处理的知识了，主要都是些论文的阅读赏析。另外还更新一些计算机相关的基础知识，主要考虑到绝大多数人并不会对枯燥又专业的自然语言处理感兴趣。算法题解的话最近也开始更新起来了，主要写一些 LeetCode上面的题解。</p><p>最后就是知乎专栏和微信公众号了，这两个平台是最近才搞的，主要把个人博客的文章同步更新过去，内容都差不多。微信公众号本来不想搞的，不支持 markdown ，写起来挺麻烦的。但是考虑到以后的发展，以及可能会有一些变现的操作，还是重操旧业了（其实我公众号两年前就注册过了，只是一直没有更新）。</p><h2 id="Why？为什么会想起来写博客？"><a href="#Why？为什么会想起来写博客？" class="headerlink" title="Why？为什么会想起来写博客？"></a>Why？为什么会想起来写博客？</h2><p>其实刚开始写博客，主要还是为了记录自己平时学到的一些东西，以后可能还能翻出来复习复习。但是现在看来，基本不会再去翻以前写的东西了。</p><p>另一个目的，也是我写博客最主要的目的，还是想分享我知道的一些东西，能够让更多的人因此受益。因为写博客，其实还是认识了不少天南地北的朋友的，有各个高校甚至初高中的学生，也有工作了很多年想学习学习编程的，也有国外一些名校的学生。不管是谁，我觉得都可以扩展我的人脉，现在微信好友人数上限扩展到了 5000 人了，而我才用了十分之一多一点，什么时候能达到上限也算是圆满了。</p><p>最后，有句话叫做：“不以盈利为目的的博客最后都死亡了”。因为如果不能因此获得任何的收入的话，极少有人有这个毅力坚持更新博客。虽然我也想因此获利，但是暂时我并不想因此改变了初衷，去写一些刻意迎合大众的水文，从而获得粉丝。</p><h2 id="What？都写一些什么主题的博客？"><a href="#What？都写一些什么主题的博客？" class="headerlink" title="What？都写一些什么主题的博客？"></a>What？都写一些什么主题的博客？</h2><p>主要都是与我相关的一些计算机相关知识。最主要的就是深度学习和自然语言处理了，但是因为我是做句法分析的，这个方向受众比较小，如果纯粹写这个方向的内容的话，看的人可能会很少。而如果写深度学习和自然语言处理的入门普及或者综合一点热门一点的方向的话，看得人应该会很多。但是这样又有一个弊端，非常的浪费我时间，因为过于基础的知识对我的提升微乎其微，只适合以后我面试前看看补补基础。而主要我现在重心还在发论文，继续搞学术，所以只能写一些结合我最近所学知识的文章。</p><p>还会写一些算法题解，现在主要在做 LeetCode 上面的中等和困难题目，然后每日一更。尽管网上各种 LeetCode 的题解已经太多了，但是我觉得，大多数的题解都非常的模糊，讲解的很不清楚，抄来抄去的有什么意思？而他们的代码风格，更是让我看不下去，最基本的美观都做不到，代码的简洁精炼就更不用谈了。所以我的目的还是尽量用美观精炼的代码来让更多人的算法思想和代码能力得到提升。</p><p>偶尔，我还会分享一些计算机基础知识，比如怎么搭博客（这是我阅读量最高的一篇博客了）、好用的软件、常用的一些软件的安装配置等等。其实讲道理，我是不愿意写这一类文章的，因为非常的费时费力，需要自己动手模拟一遍，确保能够正确完成才能写进文章。不然就会像很多网上的教程那样，抄来抄去一堆错误，根本没有自己动手实践过。但是这种文章其实对很多人帮助还挺大的，大家也乐意去看，如果你在知乎发的话，你会发现这类文章收藏量都挺高的。如果我以后用空了，我还是会经常把我平时的一些经验分享给大家的，比如 LaTeX 常用写作技巧之类的。</p><p>那么其他火的博客都写些什么呢？我觉得当代人闲暇时候、上厕所刷手机的时候，那些碎片时间是没办法好好学习一些知识的，最爱看的还是有趣的故事，例如 99 行代码做出冰雪奇缘特效、程序员脱发、程序员单身狗啦之类的。这些故事背后的技术可能是很深奥的，但是大多数人并不会去关心，只是会看完惊叹一句“卧槽”而已。其他的吸引人的内容还有资料下载、课程学习（当然基本都是广告）等等。不过我个人目前并不想写这些东西，首先这些新闻类的文章很多地方都有了，写来写去就那么些东西，同质化严重。而资料下载确实是个不错的主意，可以分享好东西给大家，但是我个人最近也没有太多值得珍藏的好资料，况且大多数网上都有现成的，我不赞同为了增加粉丝而不放出链接，把资料放在公众号后台的行为。</p><p>总之，不忘初心，粉丝什么的随缘吧。我非常佛系，即使没人看我也会日常更新，就当记日记不是吗？</p><h2 id="Who？写出来的博客都是给谁看的？"><a href="#Who？写出来的博客都是给谁看的？" class="headerlink" title="Who？写出来的博客都是给谁看的？"></a>Who？写出来的博客都是给谁看的？</h2><p>大多数看我博客的都是自然语言处理相关的学生。就拿我在知乎专栏的粉丝来看，大多数人是来看我的论文赏析的，而少部分人是看到了那篇博客搭建教程来的。至于算法题解，貌似并没有很多人看，可能这一类文章网上实在是太多了，没有什么独特的吸引力。而公众号粉丝，目前为止还很少，绝大多数还都是好友粉丝。主要原因还是公众号太封闭了，很难让好友之外的人知道并且关注你。一个方法可以在知乎等平台引流，但是现在这属于违规操作，最好还是不要干了。</p><p>其实我目标的受众群体还是包括但不仅限于计算机系的学生，像一些计算机基础知识，就算你是个小白，也可以从这里学到很多东西。甚至还有很多考研的学生来咨询我问题，虽然我是保研的，但是很多导师选取、学习方面的问题我还是愿意给出我自己的建议的。我这个人向来喜欢分享，也喜欢倾听，如果别人来问我问题，我基本是会耐心回答的。曾经有啥都不会的小白来问我怎么搭建博客，我得从最基本的命令行教他，讲道理这其实很烦，我都不想教，但我还是会尽量把关键点都告诉他。有人会觉得，我这样最后会得到什么呢？是的，也不赚钱，最多偶尔有些朋友会打赏个红包，我还浪费了大把时间（其实还好，白天工作的时候我都简单回复，晚上一般会详细点），但是认识的人多了，许多人还是多少知道我这个名字的，虽然没啥用，但是也算是种隐形财富吧，以后有什么用再说。</p><h2 id="Where？都在什么平台写博客呢？"><a href="#Where？都在什么平台写博客呢？" class="headerlink" title="Where？都在什么平台写博客呢？"></a>Where？都在什么平台写博客呢？</h2><p>这个其实上面都说过了，我现在文章主要更新在个人博客、知乎专栏、微信公众号和 CSDN 上面，我简要说一些这些平台的优缺点吧。</p><p>个人博客可以个性化定制主题，想怎么好看就怎么好看，还不用发文章审核，想发什么就发什么。但是缺点就是发文章麻烦一点的，步骤略多，并且搜索引擎收录很慢的。</p><p>知乎专栏是我比较喜欢的一个平台，主要是它支持markdown，还可以把公式变成矢量图片，还是挺不错的。但是发知乎文章要注意千万别带着营销、引流等内容，不然容易被人举报被删除甚至禁言。</p><p>微信公众号是我最近才开始运营的，相对而言，它的编辑界面是最不友好的一个，只支持富文本编辑，连markdown都没有。但是也有解决方法，比如我现在用<a href="https://mdnice.com/" target="_blank" rel="noopener">mdnice.com</a>这个网站，把markdown转换成微信公众号的富文本格式，还是非常好用的。公众号还有个缺点，太封闭了，很难宣传出去，刚开始只能亲朋好友关注关注，但是如果你真的做大了知名度，还是可以借助微信的优势，赚得不少广告钱的。</p><p>CSDN因为几年前被永久封过号，然后现在不知道为什么又被解封了，所以用的不是特别多，主要都是通过知乎专栏自动同步文章过去的。CSDN 好处就是流量大，很多人都在上面搜东西，百度搜出来也基本都是 CSDN ，但是排版是真的真的烂，不过现在好多了，也支持 markdown 了。但是还是谈不上喜欢，广告什么的都太多了，除非迫不得已，我一般不去 CSDN 看技术文章，我一般都是个人博客或者知乎看论文解读之类的。</p><h2 id="How？按照什么流程来写博客？"><a href="#How？按照什么流程来写博客？" class="headerlink" title="How？按照什么流程来写博客？"></a>How？按照什么流程来写博客？</h2><p>其实同时维护好几个平台还是挺累的，你得找到一个最佳的顺序来发布文章，这样才能事半功倍。我一般都是先在个人博客上写好 markdown 文章，然后发布完之后，打开<a href="https://mdnice.com/" target="_blank" rel="noopener">mdnice.com</a>在线编辑网站，把 markdown 粘贴进去，转成微信公众号和知乎专栏的格式，最后分别发布在两个地方就行了。 CSDN 就不用管了，它会每天自动同步知乎专栏的文章的，倒是为我省了不少事。markdown 写作也挺轻松的，完全不用管排版之类的问题，安安心心写内容就行了。</p><p>微信公众号现在设置的是每天早上 8:05 推送，其实稍微晚一点比较好，这样别人的都推送完了，你的就会置顶在最上面。而知乎专栏和个人博客我就随性发布了，想什么时候发就什么时候发，经常会前一天就写好内容，早早的发布出去了。</p><p>我个人现在来看，写一篇博客最累的是敲公式和找图片，当然像我这篇就一个公式和图都没有，是最最轻松的了。我这个人有强迫症，公式一定要手打 LaTeX 公式，然后转成矢量图才行，这样看着又清楚又舒服。遇到复杂的矩阵公式，能把我敲的头晕。这也是我为什么不喜欢 CSDN 的一个原因，上面很多文章公式全是截图，看的我头都大了。</p><h2 id="How-much？要花多少时间和金钱来运营维护？"><a href="#How-much？要花多少时间和金钱来运营维护？" class="headerlink" title="How much？要花多少时间和金钱来运营维护？"></a>How much？要花多少时间和金钱来运营维护？</h2><p>写博客挺花时间的，特别是现在还在为发论文而忙活的时候，可能论文截稿前那段时间甚至我会停更好久哈哈。不过现在放假了，还算比较闲，有功夫搞搞这些。我个人是倾向于白天还是老老实实学习吧，晚上把部分的游戏时间抽出来写会儿文章，更新一波。这样也不算太浪费时间，毕竟就算不写，时间也都用来打游戏了，游戏输了还坏了心情（我的亚索怎么会输？）。</p><p>那什么时候做 LeetCode 呢？我一般都是白天吃饭时，或者走在路上时，手机 app 上随机选一道题，然后吃个饭的时间就能想出个解法，回到实验室后敲一顿代码通过了就行了。这样看来也节约了不少时间嘛，还能和室友一起讨论讨论，帮他提高一波算法能力。</p><p>金钱的话就基本没有花销了，除了开了个素材设计网站的会员（我是真的睿智，用 PS 不就行了嘛，脑子瓦特了充钱了）以外，其他不需要啥了，偶尔还能吃点打赏钱，粉丝太少了，没有广告。</p><p>因为写文章这上面花时间比较多，写出好的文章、不水文章的话花的时间更多，所以很容易坚持不下去。而又要迎合大众的口味，众口难调嘛，又要坚持自己的初心，尽量写对自己提升大的内容，还是比较难以平衡的。特别是粉丝特别少，没有什么人看的时候，你会很想放弃。</p><p>但是，总会有人在你坚持不下去的时候，给你鼓励的目光，支持你继续走下去的。</p>]]></content>
       
       
       <categories>
@@ -70,9 +299,47 @@
       </categories>
       
       
+    </entry>
+    
+    
+    
+    <entry>
+      <title>SSL证书配置</title>
+      <link href="/2020/04/02/ru-he-pei-zhi-ssl-zheng-shu/"/>
+      <url>/2020/04/02/ru-he-pei-zhi-ssl-zheng-shu/</url>
+      
+        <content type="html"><![CDATA[<p>博主在阿里云申请的免费证书，大致是参照配置文档的，但中间出了几个小差错，故将完整流程记录如下～</p><ol><li><p>下载SSL证书到本地</p></li><li><p>登录Nginx服务器，在Nginx安装目录（默认Nginx安装目录为/usr/local/nginx/conf）下创建cert目录，并将下载的证书文件和密钥文件拷贝到cert目录中。</p></li><li><p>修改Nginx安装目录/conf/nginx.conf文件。（注意，不要重复设置root）</p><blockquote><p>listen 443 ssl;<br>server_name localhost;  #将localhost修改为您证书绑定的域名，例如：<a href="http://www.example.com。" target="_blank" rel="noopener">www.example.com。</a><br>ssl_certificate cert/domain name.pem;   #将domain name.pem替换成您证书的文件名。<br>ssl_certificate_key cert/domain name.key;   #将domain name.key替换成您证书的密钥文件名。<br>ssl_session_timeout 5m;<br>ssl_ciphers ECDHE-RSA-AES128-GCM-SHA256:ECDHE:ECDH:AES:HIGH:!NULL:!aNULL:!MD5:!ADH:!RC4;  #使用此加密套件。<br>ssl_protocols TLSv1 TLSv1.1 TLSv1.2;   #使用该协议进行配置。<br>ssl_prefer_server_ciphers on;  </p></blockquote></li><li><p>重启nginx,输入：</p><blockquote><p>nginx -s reload</p></blockquote></li></ol><p>在这步中，博主出现了nginx: [error] open() ＂/usr/local/nginx/logs/nginx.pid＂ failed错误，因此输入命令：</p><blockquote><p>/usr/local/nginx/sbin/nginx -c</p></blockquote><p>/usr/local/nginx/conf/nginx.conf</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>记录第一次成功git-clone的过程</title>
+      <link href="/2020/01/27/ji-lu-di-yi-ci-cheng-gong-git-clone-de-guo-cheng/"/>
+      <url>/2020/01/27/ji-lu-di-yi-ci-cheng-gong-git-clone-de-guo-cheng/</url>
+      
+        <content type="html"><![CDATA[<p>一直以来我都无法使用github，这个也就算了，解决方法不难。可是很多远程操作都无法执行，实在忍不下去了，网上设置git代理的方法看起来有些散，就自己记录一下过程吧～</p><a id="more"></a><p>1.查看localhost：<br>先吐槽一下这个<code>git config --global https.proxy http://127.0.0.1:1080</code>命令。<br>按照网上的资料还以为是需要代理服务器地址，后面才发现是要本机localhost。也怪我拿着就用，后面又折腾了好久如何取消。localhost可以用这个查看：</p><blockquote><p>$ nslookup localhost</p></blockquote><p>2.查看监听端口：<br>在代理软件上查看自己的本地监听端口,要注意的是，http代理要使用http的监听端口。</p><p>3.配置git代理<br>这个时候可以使用你查到的localhost和端口来输入命令了，为了方便，也可以直接输入<code>local host:</code>后跟着你的端口号（下面<code>8001</code>是博主的端口号，不要照抄！）。</p><blockquote><p>$ git config –global http.proxy “localhost:8001”</p></blockquote><blockquote><p>$ git config –global https.proxy “localhost:8001”</p></blockquote><p>现在尝试<code>git clone</code>就能下载远程仓库了，终于成功，太感动了。<br>然后摸索了一下，发现不使用代理就无法使用<code>git clone</code>等操作，大概有了些推测但尚需深入学习，就不描述了。</p><p>4.取消代理：</p><blockquote><p>$ git config –global –unset http.proxy</p></blockquote><blockquote><p>$   git config –global –unset https.proxy</p></blockquote><p>之前错误了输入了一些别的，取消：</p><blockquote><p>$  git config –global –unset https.<a href="https://github.com.proxy" target="_blank" rel="noopener">https://github.com.proxy</a></p></blockquote><blockquote><p>$ git config –global –unset http.<a href="https://github.com.proxy" target="_blank" rel="noopener">https://github.com.proxy</a></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
         <tags>
             
-            <tag> 博客 </tag>
+            <tag> git </tag>
             
         </tags>
       
