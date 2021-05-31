@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https:/2021/02/02/booklist/</loc>
+    
+    <lastmod>2021-05-31T17:21:00.603Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https:/2021/05/31/qian-duan-xue-xi-zi-yuan-zheng-li/</loc>
     
-    <lastmod>2021-05-31T15:54:50.714Z</lastmod>
+    <lastmod>2021-05-31T17:20:44.056Z</lastmod>
     
   </url>
   
@@ -65,13 +72,6 @@
   </url>
   
   <url>
-    <loc>https:/2021/02/02/booklist/</loc>
-    
-    <lastmod>2021-05-31T15:35:18.044Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https:/2021/03/27/firewalld-kai-fang-duan-kou/</loc>
     
     <lastmod>2021-05-31T15:35:14.446Z</lastmod>
@@ -100,13 +100,6 @@
   </url>
   
   <url>
-    <loc>https:/friends/index.html</loc>
-    
-    <lastmod>2021-03-26T13:58:21.930Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https:/tags/index.html</loc>
     
     <lastmod>2021-03-26T13:58:21.930Z</lastmod>
@@ -114,9 +107,9 @@
   </url>
   
   <url>
-    <loc>https:/archives/index.html</loc>
+    <loc>https:/friends/index.html</loc>
     
-    <lastmod>2021-03-26T13:58:21.929Z</lastmod>
+    <lastmod>2021-03-26T13:58:21.930Z</lastmod>
     
   </url>
   
@@ -136,6 +129,13 @@
   
   <url>
     <loc>https:/contact/index.html</loc>
+    
+    <lastmod>2021-03-26T13:58:21.929Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https:/archives/index.html</loc>
     
     <lastmod>2021-03-26T13:58:21.929Z</lastmod>
     
