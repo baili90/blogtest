@@ -4,18 +4,14 @@
 
 <head><meta name="generator" content="Hexo 3.9.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="Git使用流程简记, 好奇心与生活">
+    <meta name="keywords" content="关于学习写作的书单, 好奇心与生活">
     <meta name="baidu-site-verification" content="fmlEuI34ir">
     <meta name="google-site-verification" content="yCy2azpds5XSuGZvis6OuA-XIGF5GuGpYRAaGfD6o48">
     <meta name="360-site-verification" content="b7c11a830ef90fd1464ad6206bb7b6e7">
-    <meta name="description" content="前言：好久没有用Git，很基础的东西也只能从新查起，此文记录自己最常用的Git命令。
+    <meta name="description" content="前言：自写作以来，我一直对学习写作的书籍颇为关注，关于教写作的书并不少，但我每次发现心仪书籍的途径都各不相同。我在网上也没有搜到详尽的书单，大多是在图书馆、书店、电子书平台看到相关的书籍，故整理此书单，以备温习。
 
 
-一、关联仓库首先新建一个空仓库
-
- $ git init$ git remote add origin &amp;lt;远程仓库地址&amp;gt;
-
-假如不幸关联错">
+一、写作教程1.《小说">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -23,7 +19,7 @@
     <meta name="format-detection" content="telephone=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <title>Git使用流程简记 | 好奇心与生活</title>
+    <title>关于学习写作的书单 | 好奇心与生活</title>
     <link rel="icon" type="image/png" href="/medias/logo.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/font-awesome.min.css">
@@ -282,13 +278,13 @@
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/2.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/0.jpg')">
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
                     <div class="description center-align post-title">
-                        Git使用流程简记
+                        关于学习写作的书单
                     </div>
                 </div>
             </div>
@@ -399,8 +395,8 @@
                     
                     <div class="article-tag">
                         
-                        <a href="/tags/git/" target="_blank">
-                            <span class="chip bg-color">git</span>
+                        <a href="/tags/阅读/" target="_blank">
+                            <span class="chip bg-color">阅读</span>
                         </a>
                         
                     </div>
@@ -411,8 +407,8 @@
                     <div class="post-cate">
                         <i class="fa fa-bookmark fa-fw icon-category"></i>
                         
-                        <a href="/categories/技术/" class="post-category" target="_blank">
-                            技术
+                        <a href="/categories/闲趣/" class="post-category" target="_blank">
+                            闲趣
                         </a>
                         
                     </div>
@@ -423,7 +419,7 @@
             <div class="post-info">
                 <div class="post-date info-break-policy">
                     <i class="fa fa-calendar-minus-o fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2021-04-09
+                    2021-10-11
                 </div>
 
                 <div class="post-author info-break-policy">
@@ -437,14 +433,14 @@
                 
                 <div class="info-break-policy">
                     <i class="fa fa-file-word-o fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    191
+                    1.5k
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="fa fa-clock-o fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                    1 分
+                    5 分
                 </div>
                 
                 
@@ -460,37 +456,44 @@
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <p>前言：好久没有用Git，很基础的东西也只能从新查起，此文记录自己最常用的Git命令。</p>
+                <p>前言：自写作以来，我一直对学习写作的书籍颇为关注，关于教写作的书并不少，但我每次发现心仪书籍的途径都各不相同。我在网上也没有搜到详尽的书单，大多是在图书馆、书店、电子书平台看到相关的书籍，故整理此书单，以备温习。</p>
 <a id="more"></a>
 
-<h4 id="一、关联仓库"><a href="#一、关联仓库" class="headerlink" title="一、关联仓库"></a>一、关联仓库</h4><p>首先新建一个空仓库</p>
-<blockquote>
-<p> $ git init<br>$ git remote add origin &lt;远程仓库地址&gt;</p>
-</blockquote>
-<p>假如不幸关联错了，就删除：</p>
-<blockquote>
-<p>git remote rm origin</p>
-</blockquote>
-<h4 id="二、提交代码"><a href="#二、提交代码" class="headerlink" title="二、提交代码"></a>二、提交代码</h4><p>1.使用命令git add，如需全部提交： </p>
-<blockquote>
-<p>$ git add -A</p>
-</blockquote>
-<ol start="2">
-<li>使用命令git commit -m “提交记录”，完成。</li>
-</ol>
-<h4 id="三、打标签"><a href="#三、打标签" class="headerlink" title="三、打标签"></a>三、打标签</h4><p>首先，切换到需要打标签的分支上，如已在目标分支则跳过这一步：</p>
-<blockquote>
-<p>$ git branch<br>$ git checkout master</p>
-</blockquote>
-<p>然后，敲命令git tag <name>：</name></p>
-<blockquote>
-<p>$ git tag v1.0</p>
-</blockquote>
-<h4 id="四、推送到远程"><a href="#四、推送到远程" class="headerlink" title="四、推送到远程"></a>四、推送到远程</h4><p>推送到远程吧～</p>
-<blockquote>
-<p>$ git push -u origin master</p>
-</blockquote>
-<p>这里只是目前常用的命令，不断添加中……</p>
+<h4 id="一、写作教程"><a href="#一、写作教程" class="headerlink" title="一、写作教程"></a>一、写作教程</h4><p>1.《小说写作：叙事技巧指南》 珍妮特等 著</p>
+<p>2.《小说面面观》 福斯特 著</p>
+<p>3.《汪曾祺的写作课》 汪曾祺 著</p>
+<p>这本书应该说是汪曾祺的散文/杂文集，它不是专门讲述如何写作的，而是谈了不少写作与生活相关的感想。</p>
+<p>4.《七十二堂写作课》 夏丏尊等 著</p>
+<p>这本书讲的写作，内容不止小说，文体很杂，都不算深入，关于写作有一些约定俗成的规范，这倒是可以看看。</p>
+<p>5.《一本小小的红色写作书》</p>
+<p>这本书偏向于应用文教学。</p>
+<p>6.《成为作家》</p>
+<p>和大部分写作教程不一样，这本书没有讲很具体的创作技巧，而是讲了很多写作方法论，尤其是一些关于心态的内容，非常难得！并且书里有一些实用的小技巧，比如清晨起床后的下意识写作，我试了这个方法，竟然达到了时速三千。</p>
+<p>里面有一些写作者都会面临的难题，如何看待读者的建议，如何阅读他人作品，如何修改稿件等等。总之，这本书我觉得可以多回看几遍。</p>
+<p>7.《蔡骏24堂写作课》</p>
+<p>非常通俗易懂的一本书，蔡骏本身是写悬疑的，我中学时候看过他的《天机》，他的书在吊人胃口在实在是一绝，因此这本书里也有一些讲“钩子”的技巧。</p>
+<p>书里面有些技巧还是挺细节的，如给人物取名。教学基本是面向通俗文学的，比如里面提到写作要用好懂的词。</p>
+<p>第四部分的“杂文篇”算是蔡骏的个人经验，也可参考。</p>
+<p>8.《故事写作：小说写作实用指南》蔡骏等 著</p>
+<p>类型写作里有一些作品分类，这本书建议新人先从类型写作开始，找到自己的风格类型。</p>
+<p>9.《文心》 夏丏尊等 著</p>
+<p>10.《小说技术》 龙一 著</p>
+<p>11.《写作课：何为好，为何写不好，如何能写好》 艾丽斯 著</p>
+<p>12.《写好前五页》 卢克曼 著</p>
+<p>这本书有些年头了，像第一章里面的方法就不大适用了，但里面大多内容都是仍旧可用的，尤其是关于形容词与副词一章，举例非常生动。书中有大量的实例，虽然都有些翻译影响，但还是能看出改动的作用。令我印象深刻的一个观点是：“小说的描写不需要面面俱到，不需要把每一个细节都堆砌出来，这完全是把读者当成一个没有想象力的白痴。”</p>
+<p>我想如此行为也不是写作者的本意，我自己写作之初，也很想把场景的细节描绘出来，希望构建一个生动多彩的世界，包括在看别人的作品时，也时常看到大段的细节描述，渐渐地，我感到细节描述的繁琐与枯燥。诚如此书中所说，读者会自己完善事物的细节，思考下来，自己喜欢阅读，不就是因为想象力可以自由地在文字间遨游吗？有分寸的描写，好处还不止此，在其它写作教程里，也多有提到环境描写应为剧情服务，故此不做赘述。</p>
+<h4 id="二、写作参考"><a href="#二、写作参考" class="headerlink" title="二、写作参考"></a>二、写作参考</h4><p>1.《中外文学名著描写词典》</p>
+<p>很老的书了，在孔夫子买的，这本书是按关键词分类的，比如“日出”“男人”“儿童”，就有相关的描写。</p>
+<p>2.《文学描写词典》</p>
+<p>基本情况同上。</p>
+<h4 id="三、语言文字规范"><a href="#三、语言文字规范" class="headerlink" title="三、语言文字规范"></a>三、语言文字规范</h4><p>1.《新华字典》</p>
+<p>妥妥的工具书，目前我用这本书做两件事：一是写小说的时候查字的内涵，二是快速浏览，大体记住那些不是太生僻的字，并用笔标注可以用来做人名地名的字，比起名字生成器，自己想到的名字可以结合人物背景/地方背景，使人物更加真实（当然了，这也不是必需品，主要是我喜欢自己设计罢了）。</p>
+<p>2.《大家小书 怎样使标点符号》 苏培成 著</p>
+<p>算是必读书了，虽然《新华字典》里也有国家标点符号规范，但这本书更加具体，且有不少实例，包括媒体误用和更正之处，另外，书里还说了某些标点可用但不常用的地方，以及一些标点新衍生出来的用法。就像文字是活的，随着时代的变迁而有了不同的语义，标点符号的用法也在变化。</p>
+<p>个人觉得学习这本书时，不必严苛地要求自己遵守规范，但应反复阅读，掌握常见的使用方法。</p>
+<p>还有一点是，修正误用的标点，可以请朋友协助，看看哪里有读起来别扭的地方，像标点带来的歧义，由于写作者自己清楚文字的意思，就很容易忽略歧义的地方。</p>
+<p>3.《咬文嚼字的逻辑》 李衍华 编著</p>
+<p>这本书是关于文字里的逻辑，内容侧重于“如何正确地表达”而非“如何更好地表达”，用浅显的例子讲述了一些文字表达的不精确之处，对写小说没有直观的用处，或许把观念融进习惯里，表达会更精确点。总之，这本书是不学写作也很值得回看的，因为人时时要表达。</p>
 
             </div>
             <hr />
@@ -525,9 +528,9 @@
             <br/>
             <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text"
                   property="dct:title" rel="dct:type">
-                    《Git使用流程简记》
+                    《关于学习写作的书单》
                 </span> 由
-            <a xmlns:cc="http://creativecommons.org/ns#" href="/2021/04/09/git-shi-yong-liu-cheng-jian-ji/" property="cc:attributionName"
+            <a xmlns:cc="http://creativecommons.org/ns#" href="/2021/10/11/xie-zuo-shu-dan/" property="cc:attributionName"
                rel="cc:attributionURL">
                 BaiLi
             </a> 采用
@@ -567,56 +570,51 @@
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="fa fa-chevron-left"></i>&nbsp;上一篇</div>
+                <i class="fa fa-dot-circle-o"></i>&nbsp;本篇
+            </div>
             <div class="card">
-                <a href="/2021/04/20/li-jie-javascript-zhong-de-ti-sheng/">
+                <a href="/2021/10/11/xie-zuo-shu-dan/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/3.jpg" class="responsive-img" alt="理解JavaScript中的提升">
+                        <img src="/medias/featureimages/0.jpg" class="responsive-img" alt="关于学习写作的书单">
                         
-                        <span class="card-title">理解JavaScript中的提升</span>
+                        <span class="card-title">关于学习写作的书单</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            前言：在回调地狱的解决方案中，函数提升使得代码更加清晰，那么为什么可以这样做呢？
+                            前言：自写作以来，我一直对学习写作的书籍颇为关注，关于教写作的书并不少，但我每次发现心仪书籍的途径都各不相同。我在网上也没有搜到详尽的书单，大多是在图书馆、书店、电子书平台看到相关的书籍，故整理此书单，以备温习。
 
 
-先看四段代码
-      //代码段1--------------------------
-      var myvar = '变量值1'; 
-    
+一、写作教程1.《小说
                         
                     </div>
                     <div class="publish-info">
-                        <span class="publish-date">
-                            <i class="fa fa-clock-o fa-fw icon-date"></i>2021-04-20
-                        </span>
+                            <span class="publish-date">
+                                <i class="fa fa-clock-o fa-fw icon-date"></i>2021-10-11
+                            </span>
                         <span class="publish-author">
                             
                             <i class="fa fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/技术/" class="post-category" target="_blank">
-                                    技术
+                            <a href="/categories/闲趣/" class="post-category" target="_blank">
+                                    闲趣
                                 </a>
                             
                             
                         </span>
                     </div>
                 </div>
+
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/前端/" target="_blank">
-                        <span class="chip bg-color">前端</span>
-                    </a>
-                    
-                    <a href="/tags/JavaScript/" target="_blank">
-                        <span class="chip bg-color">JavaScript</span>
+                    <a href="/tags/阅读/" target="_blank">
+                        <span class="chip bg-color">阅读</span>
                     </a>
                     
                 </div>
@@ -630,40 +628,32 @@
                 下一篇&nbsp;<i class="fa fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/2021/03/30/ubuntu18-04-tu-xing-hua-jie-mian-gou-jian-ji-lu/">
+                <a href="/2021/05/31/qian-duan-xue-xi-zi-yuan-zheng-li/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/1.jpg" class="responsive-img" alt="Ubuntu18-04图形化界面构建记录">
+                        <img src="/medias/featureimages/2.jpg" class="responsive-img" alt="从零开始的前端学习资源">
                         
-                        <span class="card-title">Ubuntu18-04图形化界面构建记录</span>
+                        <span class="card-title">从零开始的前端学习资源</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            前言：之所以使用18.04，是因为在最新版本中连接VNC出现完全无法点击的问题，故障待排，敬请指教。
-
-
-一、VNC的安装与配置
-安装之前先输入
-
-
-apt-get update
-sudo apt-get upgrade
-获取最新套件的信息
+                            以下整理的资料，都是之前我学前端时用过且觉得不错的资源，带有强烈的个人偏好，但用着确实都不错。此文权作记录与归纳，如果有不愿公开的作者，请联系我删除～
+一、UI与灵感Element : https://element.eleme.cn/#/
                         
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="fa fa-clock-o fa-fw icon-date"></i>2021-03-30
+                                <i class="fa fa-clock-o fa-fw icon-date"></i>2021-05-31
                             </span>
                         <span class="publish-author">
                             
                             <i class="fa fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/技术/" class="post-category" target="_blank">
-                                    技术
+                            <a href="/categories/资源/" class="post-category" target="_blank">
+                                    资源
                                 </a>
                             
                             
@@ -673,8 +663,8 @@ sudo apt-get upgrade
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/Linux/" target="_blank">
-                        <span class="chip bg-color">Linux</span>
+                    <a href="/tags/前端/" target="_blank">
+                        <span class="chip bg-color">前端</span>
                     </a>
                     
                 </div>
