@@ -3,18 +3,18 @@
 #
 
 # Name of your site (displayed in the header)
-name: "lemon's blog"
+name: "好奇心与生活"
 # Short bio or description (displayed in the header)
-description: "个人技术公众号「后端技术学堂」分享、记录、成长"
+description: "技术记录 | 生活感悟 | 爱好分享"
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/lemonchann/images/raw/master/gzh/公众号二维码.png
+avatar: https://z3.ax1x.com/2021/10/29/5vZRSK.jpg
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
+favicon: https://z3.ax1x.com/2021/10/29/5vePf0.png
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
@@ -39,11 +39,11 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: ning-meng-cheng-31-94
-  email: lemonchann@foxmail.com
+  # zhihu: ning-meng-cheng-31-94
+  # email: lemonchann@foxmail.com
   facebook:
   flickr:
-  github: lemonchann 
+  github: baili90
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -55,7 +55,7 @@ footer-links:
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2019 lemon
+footer-text: Copyright (c) 2020 baili90
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -69,7 +69,7 @@ gitalk:
   owner: lemonchann
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-#google_analytics: 
+#google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -79,7 +79,7 @@ url: https://lemonchann.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-# baseurl: 
+# baseurl:
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -99,7 +99,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+    css_class: "highlight"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
@@ -118,4 +118,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
