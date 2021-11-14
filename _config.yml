@@ -5,7 +5,7 @@
 # Name of your site (displayed in the header)
 name: "好奇心与生活"
 # Short bio or description (displayed in the header)
-description: "技术记录 | 生活感悟 | 爱好分享"
+description: "技术记录 、 生活感悟 、爱好分享"
 
 #
 # Flags below are optional
@@ -63,10 +63,10 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
-  repo: lemonchann.github.io
-  owner: lemonchann
+  clientID:
+  clientSecret:
+  repo:
+  owner:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics:
