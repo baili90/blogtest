@@ -2,7 +2,7 @@
 title: 愿“小歌鸟”永远幸福地欢唱 ————看《伊斯坦布尔姑娘》有感
 top: false
 cover: false
-toc: true
+toc: false
 mathjax: true
 date: 2021-12-06 13:22:32
 password:
